@@ -1,0 +1,151 @@
+<?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Swedish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/02/11 00:02:24
+|
+|        $Author: tubbis_2 $
++---------------------------------------------------------------+
+*/
+define("LAN_DL_OPTIONS", "Alternativ");
+define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Allmänt");
+define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Rapportering");
+define("LAN_DL_DOWNLOAD_OPT_AGREE", "Avtal");
+define("LAN_DL_UPLOAD", "Ladda upp");
+define("LAN_DL_USE_PHP", "Använd PHP");
+define("LAN_DL_USE_PHP_INFO", "Om detta val är förbockat kommer all begäran ske via php");
+define("LAN_DL_SUBSUB_CAT", "Visa under-underkategorier");
+define("LAN_DL_SUBSUB_CAT_INFO", "Om detta val är förbockat kommer under-underkategorierna att visas på nedladdningars huvudsida");
+define("LAN_DL_SUBSUB_COUNT", "Kombinera kategoristats");
+define("LAN_DL_SUBSUB_COUNT_INFO", "Inkludera under-underkategoriers stats i underkategoriers stats");
+define("DOWLAN_1", "Nedladdning lades till i databasen.");
+define("DOWLAN_2", "Nedladdning uppdaterades i databasen.");
+define("DOWLAN_5", "Det finns inga nedladdningskategorier definierade, du måste definiera några innan du kan lägga till nedladdningar.");
+define("DOWLAN_8", "Inget ändrades - Inget sparades");
+define("DOWLAN_9", "Nedladdning detalj");
+define("DOWLAN_10", "Uppladdningar");
+define("DOWLAN_11", "Kategori");
+define("DOWLAN_12", "Namn");
+define("DOWLAN_13", "Fil");
+define("DOWLAN_15", "Upphovsman");
+define("DOWLAN_16", "Upphovsmannens mejladress");
+define("DOWLAN_17", "Upphovsmannens webbplats");
+define("DOWLAN_18", "Beskrivning");
+define("DOWLAN_19", "Huvudbild");
+define("DOWLAN_20", "Miniatyrbild");
+define("DOWLAN_21", "Status");
+define("DOWLAN_22", "Lista uppladdningar");
+define("DOWLAN_23", "Filtyper");
+define("DOWLAN_24", "Uppdatera nedladdning");
+define("DOWLAN_25", "Skicka in nedladdning");
+define("DOWLAN_27", "Ladda ned");
+define("DOWLAN_29", "Begärd");
+define("DOWLAN_31", "Kategorier");
+define("DOWLAN_32", "Nedladdningar");
+define("DOWLAN_33", "Är du säker på att du vill radera denna nedladdning?");
+define("DOWLAN_42", "Visa bilder");
+define("DOWLAN_43", "Synlig för");
+define("DOWLAN_55", "Antal nedladdningar som ska visas per sida");
+define("DOWLAN_56", "Sortera efter");
+define("DOWLAN_59", "Filnamn");
+define("DOWLAN_62", "Stigande");
+define("DOWLAN_63", "Fallande");
+define("DOWLAN_64", "Uppdatera alternativ");
+define("DOWLAN_65", "Alternativ uppdaterade");
+define("DOWLAN_66", "Filstorlek");
+define("DOWLAN_68", "Filen saknas!");
+define("DOWLAN_100", "Aktivera nedladdningsavtal");
+define("DOWLAN_101", "Avtalstext");
+define("DOWLAN_102", "Tillåt kommentarer?");
+define("DOWLAN_103", "Ta bort från uppladdningar");
+define("DOWLAN_104", "togs bort från publika uppladdningar");
+define("DOWLAN_105", "Tillbaka till publika uppladdningar");
+define("DOWLAN_106", "Kan laddas ner av");
+define("DOWLAN_107", "Begränsa antalet nedladdningar");
+define("DOWLAN_108", "Begränsa nedladdningens bandbredd");
+define("DOWLAN_109", "varje");
+define("DOWLAN_110", "dagar");
+define("DOWLAN_111", "kb");
+define("DOWLAN_112", "Begränsningar");
+define("DOWLAN_113", "Användarklass");
+define("DOWLAN_114", "Lägg till ny begränsning");
+define("DOWLAN_115", "Uppdatera begränsningar");
+define("DOWLAN_122", "Inaktiv");
+define("DOWLAN_123", "Aktiv - Filen ingår i begränsningar av nedladdning");
+define("DOWLAN_124", "Aktiv - Filen ingår INTE i begränsningar av nedladdning");
+define("DOWLAN_125", "Begränsnigar av nedladdning är aktiverad");
+define("DOWLAN_128", "Speglingar");
+define("DOWLAN_129", "Lämna fältet tomt om inga speglingar används");
+define("DOWLAN_130", "Lägg till en annan spegling");
+define("DOWLAN_131", "Välj lokal fil");
+define("DOWLAN_132", "Välj spegling som ska användas, sedan adress för nedladdning och filstorlek");
+define("DOWLAN_133", "Spegling uppdaterad i databasen");
+define("DOWLAN_134", "Spegling sparad i databasen");
+define("DOWLAN_135", "Spegling raderad");
+define("DOWLAN_136", "Bild");
+define("DOWLAN_137", "Är du säker på att du vill radera denna spegling?");
+define("DOWLAN_138", "Befintliga speglingar");
+define("DOWLAN_139", "Adress");
+define("DOWLAN_140", "Ladda upp lokala bilder till e107_files/downloadimages för att visas här eller ange fullständig webbadress till fjärrdatorn.");
+define("DOWLAN_141", "Plats");
+define("DOWLAN_142", "Uppdatera spegling");
+define("DOWLAN_143", "Skapa spegling");
+define("DOWLAN_144", "Inga speglingar definierade i speglingssektionen");
+define("DOWLAN_145", "Nedladdning synlig för");
+define("DOWLAN_146", "Eget Nedladdning-nekadmeddelande eller URL");
+define("DOWLAN_148", "Bocka i för att uppdatera datumet till nuvarande tid");
+define("DOWLAN_149", "URL");
+define("DOWLAN_150", "Mejla admin när en trasig nedladdning inrapporteras");
+define("DOWLAN_151", "Inrapportering av trasig nedladdning kan göras av");
+define("DOWLAN_152", "Kunde inte flytta filen");
+define("DOWLAN_153", "Flytta filen till nedladdningsmappen");
+define("DOWLAN_154", "Om speglingar används, välj hur dessa ska visas");
+define("DOWLAN_155", "Speglingars visningstyp");
+define("DOWLAN_156", "visa speglingslista, tillåt användare att välja spegling");
+define("DOWLAN_157", "använd slumpvis spegling - användare får inte välja");
+define("DOWLAN_160", "Speglingslistans ordning");
+define("DOWLAN_161", "Slumpvis");
+define("DOWLAN_164", "Senaste nedladdnings ålder (i dagar)");
+define("DOWLAN_165", "Underhåll av nedladdningar");
+define("DOWLAN_166", "Dubletter");
+define("DOWLAN_167", "Föräldralösa");
+define("DOWLAN_168", "Saknade");
+define("DOWLAN_169", "Inaktiva");
+define("DOWLAN_171", "Logg");
+define("DOWLAN_172", "Inga poster");
+define("DOWLAN_173", "Är du säker på att du vill radera denna fil?");
+define("DOWLAN_174", "Inga föräldralösa filer påträffades");
+define("DOWLAN_175", "Lokal");
+define("DOWLAN_176", "Extern");
+define("DOWLAN_178", "Ingen kategori");
+define("DOWLAN_179", "Välj ett alternativ i underhållsinställningar");
+define("DOWLAN_180", "Filstorlek (databas/disk)");
+define("DOWLAN_181", "läsbar");
+define("DOWLAN_182", "tidstämpel");
+define("DOWLAN_185", "Filer som det hänvisas till flera gånger i databasen");
+define("DOWLAN_186", "Filer som det inte hänvisas till i databasen");
+define("DOWLAN_187", "Databasposter som hänvisar till obefintliga filer");
+define("DOWLAN_188", "Databasposter markerade som inaktiva");
+define("DOWLAN_189", "Databasposter som inte är kopplade till kategori");
+define("DOWLAN_190", "Storleksskillnad mellan databasposten och själva filen");
+define("DOWLAN_191", "Nedladdningars loggposter");
+define("DOWLAN_192", "Utför valt alternativ");
+define("DOWLAN_193", "Välj alternativ");
+define("DOWLAN_195", "Speglingstyp");
+define("DOWLAN_196", "lista");
+define("DOWLAN_197", "slumpvis");
+define("DOWLAN_HELP_1", "Hjälp");
+define("DOWLAN_HELP_2", "<p>Skapa/redigera nedladdning.</p><p>SKriv endast in en av: Fil, URL or Spegling.</p><p>Se till att du väljer en kategori, i annat fall kommer inte nedladdningen att synas på nedladdningssidan.</p>");
+define("DOWLAN_HELP_3", "Hjälp för kat");
+define("DOWLAN_HELP_4", "Hjälp för alt");
+define("DOWLAN_HELP_5", "Använd underhållssidorna för att hitta dubletter, föräldralösa filer,saknade eller trasiga nedladdningar, hantera inaktiva nedladdningar, läs in filstorlekar på nytt och gå igenom nedladdningsloggen");
+define("DOWLAN_HELP_6", "Hjälp för begränsningar");
+define("DOWLAN_HELP_7", "Hjälp för spegling");
+define("DOWLAN_HELP_8", "Hjälp för uppladdningslista");
+define("DOWLAN_HELP_9", "Hjälp för uppladdningstyper");
+define("DOWLAN_HELP_10", "Hjälp för uppladdningsalternativ");
+
+
+?>

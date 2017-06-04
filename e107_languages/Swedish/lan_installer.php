@@ -1,0 +1,112 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|     $Swedish translation: hanssons.de $
++----------------------------------------------------------------------------+
+*/
+define("LANINS_001", "E107 Installation");
+define("LANINS_002", "Steg");
+define("LANINS_003", "1");
+define("LANINS_004", "Språkval");
+define("LANINS_005", "Vänligen välj språk att använda under installationsprocessen");
+define("LANINS_007", "4");
+define("LANINS_008", "PHP & MySQL versionskontroll. Kontroll av filrättigheter");
+define("LANINS_009", "Testa filrättigheterna igen");
+define("LANINS_010", "Kan inte skriva till fil:");
+define("LANINS_010a", "Mappen är skrivskyddad:");
+define("LANINS_012", "MySQL funktionerna verkar inte existera. Det betyder förmodligen att antingen MySQL PHP modulen (Extension) inte är installerad eller din PHP-installation är inte kompilerad med stöd för MySQL.");
+define("LANINS_013", "Kunde inte fastställa din MySQL version. Detta är ett icke-fatalt fel, så fortsätt installationen, men tänk på att e107 kräver MySQL >= 3,23 för att det ska fungera korrekt.");
+define("LANINS_014", "Filrättigheter");
+define("LANINS_015", "PHP version");
+define("LANINS_017", "OK");
+define("LANINS_018", "Försäkra dig om att alla listade filer existerar och att de kan skrivas till av servern. Detta innebär vanligen att sätta dem till CHMOD 777, men miljöer kan se olika ut - kontakta din webbvärd ( ditt webhotell ) om du får problem.");
+define("LANINS_019", "PHP-versionen installerat på din server kan inte köra e107. e107 kräver en PHP-version på minst ".MIN_PHP_VERSION." för att fungera korrekt. Antingen uppgradera din PHP-version, eller kontakta din webbvärd(host) för en uppgradering.");
+define("LANINS_021", "2");
+define("LANINS_022", "MySQL serverdetaljer");
+define("LANINS_023", "Vänligen ange dina MySQL uppgifter här.Om du har root-åtkomst kan du skapa en ny databas genom att klicka i rutan 'Skapa databas', om inte måste du skapa en databas manuellt eller använda en befintlig.<br/><br/>Om du bara har en databas, använd ett prefix så att andra skript kan dela på samma databas.<br/>Om du inte känner till dina MySQL uppgifter, kontakta din webbvärd (webhost).");
+define("LANINS_024", "MySQL server:");
+define("LANINS_025", "MySQL användarnamn:");
+define("LANINS_026", "MySQL lösenord:");
+define("LANINS_027", "MySQL databas:");
+define("LANINS_028", "Skapa databas?");
+define("LANINS_029", "Tabellprefix:");
+define("LANINS_030", "MySQL servern du vill att e107 skall använda. Kan också innehålla portnummer, t.ex. 'värdnamn:port' eller sökvägen till en lokal socket t.ex. ':/sökväg/till/socket' för den lokala värden.");
+define("LANINS_031", "Användarnamnet e107 skall använda för att ansluta till din MySQL server");
+define("LANINS_032", "Lösenordet för användaren du just angav. Får inte innehålla enkla eller dubbla citationstecken.");
+define("LANINS_033", "MySQL databasen du vill att e107 skall befinna sig i, i vissa fall kallat schema. Måste börja med en bokstav. Om användaren har rättigheter att skapa en databas kan du begära att en ny databas skapas om den inte redan finns.");
+define("LANINS_034", "Prefixet du vill att e107 skall använda när tabellerna skall skapas. Användbart för att köra flera olika e107 eller andra applikationer i samma databas/schema.");
+define("LANINS_036", "3");
+define("LANINS_037", "Verifiering av MySQL anslutning");
+define("LANINS_038", " och skapande av databas");
+define("LANINS_039", "Se till att du fyller i alla fält, viktigast är MySQL Server, MySQL användarnamn och MySQL databas ( dessa krävs alltid av MySQL-servern )");
+define("LANINS_040", "Fel");
+define("LANINS_041", "e107 kunde inte ansluta till MySQL med den information du angett. <br />Återgå till förra sidan och kontrollera att informationen är korrekt.");
+define("LANINS_042", "Anslutning till MySQL-servern upprättad och verifierad.");
+define("LANINS_043", "Kunde inte skapa en databas, kontrollera att du har tillräcklig behörighet för att skapa nya databaser på din server.");
+define("LANINS_044", "Skapade databas felfritt.");
+define("LANINS_045", "Klicka på knappen för att gå vidare till nästa steg.");
+define("LANINS_046", "5");
+define("LANINS_047", "Administratörsinformation");
+define("LANINS_048", "EXIF modul");
+define("LANINS_049", "De två lösenorden som du angav var inte identiska. Vänligen gå tillbaka och försök igen.");
+define("LANINS_050", "XML modul");
+define("LANINS_051", "Installerad");
+define("LANINS_052", "Inte installerad");
+define("LANINS_055", "Installationsbekräftelse");
+define("LANINS_056", "6");
+define("LANINS_057", " e107 har nu all information som behövs för att avsluta installationen. <br /><br />Klicka på knappen för att skapa databastabellerna och spara alla dina inställningar.");
+define("LANINS_058", "7");
+define("LANINS_060", "Kan inte läsa SQL-datafilen.Vänligen kontrollera att filen [b]core_sql.php[/b] existerar i [b]/e107_core/sql[/b] mappen.");
+define("LANINS_061", "e107 kunde inte skapa alla nödvändiga databastabeller.  Vänligen rensa databasen och korrigera eventuella problem innan du provar igen.");
+define("LANINS_069", "e107 har installerats korrekt! Av säkerhetsskäl bör du nu sätta filrättigheterna på filen [b]e107_config.php[/b] tillbaka till 644. Radera också install.php från din server efter att du klickat på knappen nedan.");
+define("LANINS_070", "e107 kunde inte spara huvudkonfigurationsfilen på din server. Försäkra dig om att filen [b]e107_config.php[/b] har korrekta rättigheter");
+define("LANINS_071", "Slutför installationen");
+define("LANINS_072", "Administratörens användarnamn");
+define("LANINS_073", "Detta är namnet du använder för att logga in på webbplatsen. Du kan även använda detta som ditt visade namn.");
+define("LANINS_074", "Visat administratörsnamn");
+define("LANINS_076", "Administratörens lösenord");
+define("LANINS_077", "Vänligen skriv in administratörslösenordet du önskar använda här.");
+define("LANINS_078", "Bekräfta administratörslösenord");
+define("LANINS_079", "Vänligen ange administratörslösenord igen för verifiering.");
+define("LANINS_080", "Administratörs e-post");
+define("LANINS_081", "Ange din e-postadress här");
+define("LANINS_083", "MySQL rapporterade fel:");
+define("LANINS_084", "Installationsprogrammet kunde inte ansluta till databasen");
+define("LANINS_085", "Installationsprogrammen kunde inte välja databas:");
+define("LANINS_086", "Administratörs användarnamn, lösenord och e-postadress är obligatoriska fält. Vänligen gå tillbaka till föregående sida och se till att information har angetts korrekt.");
+define("LANINS_105", "Ett databasnamn eller prefix som börjar med några siffror följda av 'e' eller 'E' är inte tillåtet.");
+define("LANINS_106", "VARNING - e107 kan inte skriva till katalogerna och / eller filerna som är listade. Det kommer inte att stoppa e107 installationen, men det kan betyda att vissa funktioner inte blir tillgängliga. Du måste ändra filrättigheterna för att kunna använda funktionerna.");
+define("LANINS_107", "Webbsajtens namn");
+define("LANINS_108", "Min webbsajt");
+define("LANINS_109", "Min webbsajts tema");
+define("LANINS_111", "Inkludera innehåll/konfiguration");
+define("LANINS_112", "Visa snabbt hur temat ser ut eller en demo. (om fungerande)");
+define("LANINS_113", "Vänligen fyll i ett namn på webbsajten");
+define("LANINS_114", "Vänligen välj tema");
+define("LANINS_115", "Temanamn");
+define("LANINS_116", "Tematyp");
+define("LANINS_117", "Webbsidepreferenser");
+define("LANINS_118", "Installera plugin");
+define("LANINS_119", "Installera alla plugin som temat kräver");
+define("LANINS_120", "8");
+define("LANINS_121", "Filen e107_config.php är inte tom");
+define("LANINS_122", "Du har möjligen redan installerat e107");
+define("LANINS_123", "Valfritt: Ditt visade namn eller alias. Lämna fältet tomt för att använda samma som användarnamn");
+define("LANINS_124", "Vänligen använd ett lösenord med minst 8 tecken");
+define("LANINS_125", "e107 har installerats!");
+define("LANINS_126", "Av säkerhetsskäl ska du nu sätta fil-rättigheterna på filen e107_config.php till 644.");
+define("LANINS_127", "Databasen [x] finns redan. Skriva över? (all data i filen kommer att förloras)");
+define("LANINS_128", "Skriv över");
+define("LANINS_129", "Databasen hittades inte");
+define("LANINS_134", "Installation");
+define("LANINS_135", "av");
+define("LANINS_136", "Raderade existerande databas");
+define("LANINS_137", "Hittade existerande databas");
+define("LANINS_141", "Vänligen fyll i förmuläret nedan med dina MySQL uppgifter. Om du inte vet dessa kontakta din webbvärd(host). Du kan föra muspekaren över varje fält för mer information.");
+define("LANINS_142", "VIKTIGT: Vänligen byt namn på e107.htaccess till .htaccess");
+define("LANINS_144", "VIKTIGT: Vänligen kopiera och klistra in innehållet i [b]e107.htaccess[/b] till din [b].htaccess[/b] fil.Se till att INTE skriva över någon data som redan finns där");
+define("LANINS_145", "e107 V2.x kräver att PHP [x] är installerad. Vänligen kontakta din webbvärd(host) eller läs informationen vid [y] innan du fortsätter");
+
+
+?>

@@ -1,0 +1,111 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|     $Swedish translation: hanssons.de $
++----------------------------------------------------------------------------+
+*/
+define("TPVLAN_1", "Du tittar på en förhandsgranskning av <b>'".PREVIEWTHEMENAME."'</b> temat. Det har inte satts som huvudtema för webbplatsen ännu, det är bara aktiverat för förhandsgranskning av hur temat ser ut.<br />För att sätta detta som webbplatstema, <a href='".e_ADMIN."theme.php'>gå tillbaka till din temahanterare</a> och välj 'Sätt som Webblatstema'.<br />För att förhandsgranska fler teman vänligen <a href='".e_ADMIN."theme.php'>klicka här</a>");
+define("TPVLAN_2", "Förhandsgranskning av Tema");
+define("TPVLAN_3", "Webbplatstema satt till");
+define("TPVLAN_5", "Webbplats");
+define("TPVLAN_6", "Publiceringsdatum");
+define("TPVLAN_7", "Information");
+define("TPVLAN_9", "Förhandsgranska tema");
+define("TPVLAN_10", "Sätt som webbplatstema");
+define("TPVLAN_11", "Version");
+define("TPVLAN_12", "Ingen förhandsgranskning tillgänglig");
+define("TPVLAN_13", "Ladda upp tema (.zip eller .tar.gz format)");
+define("TPVLAN_14", "Ladda upp tema");
+define("TPVLAN_15", "Filen kunde inte laddas upp eftersom ".e_THEME." katalogen inte har korrekta rättigheter - sätt den till CHMOD 777 och försök igen.");
+define("TPVLAN_16", "Administratörsmeddelande");
+define("TPVLAN_17", "Filen verkar inte vara ett giltigt .zip eller .tar arkiv.");
+define("TPVLAN_18", "Ett fel uppstod, kan inte packa upp arkivfilen");
+define("TPVLAN_19", "Ditt tema har laddats upp och blivit uppackat, bläddra ner för att se temat i listan.");
+define("TPVLAN_20", "Autouppladdning av tema och extrahering är inaktiverat efterom din temakatalog(mapp) inte har korrekta rättigheter - vänligen sätt din e107_themes katalog(mapp) till CHMOD 777.");
+define("TPVLAN_21", "Detta är det nuvarande valda webbplatstemat");
+define("TPVLAN_22", "Detta tema har flera stilmallar");
+define("TPVLAN_23", "standard stilmall");
+define("TPVLAN_24", "ingen information");
+define("TPVLAN_26", "Temahanterare");
+define("TPVLAN_27", "Välj stilmall att använda");
+define("TPVLAN_28", "på");
+define("TPVLAN_29", "av");
+define("TPVLAN_30", "Förhandsladda temabilder:");
+define("TPVLAN_31", "Detta är det nuvarande administratörstemat");
+define("TPVLAN_32", "Sätt som adminstratörstema");
+define("TPVLAN_33", "Nuvarande webbplatstema");
+define("TPVLAN_34", "Nuvarande administratörstema");
+define("TPVLAN_35", "Spara alternativ");
+define("TPVLAN_36", "Administratörsmeddelande");
+define("TPVLAN_37", "Alternativ för tema sparade");
+define("TPVLAN_38", "Ladda upp tema");
+define("TPVLAN_39", "Tillgängliga teman");
+define("TPVLAN_40", "Administratörstema satt till");
+define("TPVLAN_41", "Välj administratörs layoutstil att använda");
+define("TPVLAN_42", "Spara adminalternativ");
+define("TPVLAN_43", "Adminalternativ sparade");
+define("TPVLAN_46", "PCLZIP extracteringsfel:");
+define("TPVLAN_47", "PCLTAR extracteringsfel:");
+define("TPVLAN_48", "kod:");
+define("TPVLAN_49", "Efterlevnad");
+define("TPVLAN_50", "Layouter");
+define("TPVLAN_51", "Ändra Tema");
+define("TPVLAN_52", "Namn");
+define("TPVLAN_53", "Föreslagna pluginer");
+define("TPVLAN_54", "Meny förinställningar");
+define("TPVLAN_55", "Förvald");
+define("TPVLAN_56", "Synlighetsfilter");
+define("TPVLAN_57", "Kompatibilitet");
+define("TPVLAN_58", "Med detta tema följer förinstallerat exempelinnehålt (som sidor och menyer) som du kan använda på din webbplats");
+define("TPVLAN_59", "Var uppmärksam på att exempelinnehållet kommer [b]skriva över[/b] ditt nuvarande innehåll");
+define("TPVLAN_60", "[x] post(er) i din [y] tabell");
+define("TPVLAN_61", "Vill du [b]ersätta[/b] ditt nuvarande innehåll med det förvalda innehållet som medföljer temat");
+define("TPVLAN_62", "Sök teman");
+define("TPVLAN_63", "Konvertera");
+define("TPVLAN_64", "Guiden hjälper dig att skapa en theme.xml metafil för ditt tema");
+define("TPVLAN_65", "Innan du börjar:");
+define("TPVLAN_66", "Se till att ditt temas mapp går att skriva till");
+define("TPVLAN_67", "Välj din temamapp för att börja");
+define("TPVLAN_68", "Välj din temamapp");
+define("TPVLAN_69", "Tillgänglig för nedladdning");
+define("TPVLAN_70", "Förhandsisning/Live-demo");
+define("TPVLAN_71", "Inte specificerad");
+define("TPVLAN_72", "Ställ in vilka sidor som automatiskt ska använda denna layout");
+define("TPVLAN_73", "Aktivera menyer");
+define("TPVLAN_74", "Aktiverar följande:");
+define("TPVLAN_75", "Pris");
+define("TPVLAN_76", "Gratis");
+define("TPVLAN_77", "Rekommenderas!");
+define("TPVLAN_78", "Krav");
+define("TPVLAN_79", "cURL behövs för att använda denna funktion. Kontakta ditt webhotell för att aktivera cURL");
+define("TPVLAN_80", "Inga teman matchar din sökning");
+define("TPVLAN_CONV_1", "Steg 1");
+define("TPVLAN_CONV_2", "Steg 2");
+define("TPVLAN_CONV_3", "Ditt temanamn (måste skrivas på engelska)");
+define("TPVLAN_CONV_4", "Om du har en språkfil, fyll i LAN_XXX värdet för temanamnet");
+define("TPVLAN_CONV_5", "Temaversion Format x.x");
+define("TPVLAN_CONV_6", "Skapad den");
+define("TPVLAN_CONV_7", "Kompatibel med denna version av e107");
+define("TPVLAN_CONV_8", "Upphovsman");
+define("TPVLAN_CONV_9", "Upphovsmannens Webbsida");
+define("TPVLAN_CONV_10", "En kort beskrivning av temat  (!@#$%^&* tecken är ej tillåtna)(Måste vara på engelska)");
+define("TPVLAN_CONV_11", "NyckelordTag för detta tema (Måste vara på engelska)");
+define("TPVLAN_CONV_12", "En fullständig beskrivning av temat (Måste vara på engelska)");
+define("TPVLAN_CONV_13", "Vilken slags kategori är detta tema?");
+define("TPVLAN_CONV_14", "Sätt detta stylesheet som ett alternativ i Temahanteraren");
+define("TPVLAN_CONV_15", "Ge detta stylesheet ett namn");
+define("TPVLAN_CONV_16", "URL till en live-demo av temat");
+define("TPVLAN_81", "Laddar ned...");
+define("TPVLAN_82", "Nedladdning klar!");
+define("TPVLAN_83", "Automatiserad nedladdning fungerar inte!");
+define("TPVLAN_84", "[Ladda ner manuellt]");
+define("TPVLAN_85", "Ansluter...");
+define("TPVLAN_86", "Kunde inte ändra webbplatstema");
+define("TPVLAN_88", "Konverterare");
+define("TPVLAN_89", "Applicera panelinställningar till alla admin");
+define("TPVLAN_91", "Skapa ett nytt tema som bygger på");
+define("TPVLAN_92", "Nya temats mapp");
+
+
+?>

@@ -1,0 +1,118 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|     $Swedish translation: hanssons.de $
++----------------------------------------------------------------------------+
+*/
+define("DBLAN_1", "Kärninställningar kopierade till databasen.");
+define("DBLAN_4", "Klicka på knappen för att validera giltigheten av e107 databasen");
+define("DBLAN_5", "Kontrollera databasens validitet");
+define("DBLAN_6", "Klicka på knappen för att optimera din e107 databas");
+define("DBLAN_7", "Optimera SQL-databasen");
+define("DBLAN_8", "Klicka på knappen för att säkerhetskopiera dina kärninställningar");
+define("DBLAN_9", "Gör backup på kärnan");
+define("DBLAN_10", "Databasverktyg");
+define("DBLAN_11", "MySQL databas [x] optimerad");
+define("DBLAN_15", "Klicka på knappen för att se om det finns någon tillgänglig uppdatering till databasen");
+define("DBLAN_16", "Kontrollera om det finns uppdateringar");
+define("DBLAN_17", "Pref. Namn");
+define("DBLAN_18", "Pref. Värde");
+define("DBLAN_19", "Klicka på knappen för att öppna preferensredigeraren (endast för avancerade användare)");
+define("DBLAN_20", "Preferensredigerare");
+define("DBLAN_22", "Program: Visa och scanna");
+define("DBLAN_23", "Scanning slutförd");
+define("DBLAN_25", "Katalog");
+define("DBLAN_26", "Inkluderade tilläggsprogram");
+define("DBLAN_27", "Installerad");
+define("DBLAN_28", "Klicka på knappen för att scanna programkatalogerna för ändringar");
+define("DBLAN_29", "Scanna programkataloger");
+define("DBLAN_30", " (om ett tillägg(addon) visar ett fel, kontrollera efter tecken utanför PHP öppnings/stängnings taggar)");
+define("DBLAN_31", "Godtas");
+define("DBLAN_33", "Otillgänglig");
+define("DBLAN_34", "Inte kontrollerad");
+define("DBLAN_35", "Klicka på knappen för att kontrollera validiteten på e107s databas poster");
+define("DBLAN_36", "Kontrollera validiteten på e107s databas poster");
+define("DBLAN_37", "Välj tabell(er) att validera");
+define("DBLAN_38", "Starta verifiering");
+define("DBLAN_39", "Validering av databasens poster");
+define("DBLAN_40", "Posters validering:");
+define("DBLAN_41", "tabell");
+define("DBLAN_43", "anmärkning");
+define("DBLAN_45", "ID hittades inte!");
+define("DBLAN_46", "Tabell hittades inte!");
+define("DBLAN_49", "Inga poster hittades i tabellen, så ingenting att validera");
+define("DBLAN_50", "SQL posters validering");
+define("DBLAN_51", "Kör markerade");
+define("DBLAN_52", "Radera dubletter");
+define("DBLAN_53", "Vänligen välj åtgärd.");
+define("DBLAN_54", "Inga fel hittades vid validering");
+define("DBLAN_55", "Välj att skanna shortcode/override katalogen för nya kodförkortningar");
+define("DBLAN_56", "Skanna overridekatalogen");
+define("DBLAN_57", "Kodförkortning Override lista inställd på");
+define("DBLAN_58", "Exportera webbplatsdata");
+define("DBLAN_59", "Importera webbplatsdata");
+define("DBLAN_60", "Säkerhetskopiering av filer är avslutad");
+define("DBLAN_61", "Startar säkerhetskopiering av databas");
+define("DBLAN_62", "Säkerhetskopiering av databas är avslutad");
+define("DBLAN_63", "Säkerhetskopiering av hela webbplatsen är avslutad");
+define("DBLAN_64", "Kontrollera databasens teckenuppsättning");
+define("DBLAN_65", "Kontrollera teckenuppsättning");
+define("DBLAN_66", "Korrigera Fil- och katalogrättigheter");
+define("DBLAN_67", "Korrigera behörigheter");
+define("DBLAN_68", "Säkerhetskopiera databas, filer och mappar.");
+define("DBLAN_69", "Säkerhetskopiera webbplatsen");
+define("DBLAN_70", "Detta kommer att dumpa innehålet i din databas och ett zip-arkiv innehållandes en säkerhetskopia av alla ickestandard program, din webbplats tema, dina mediefiler och systemloggar");
+define("DBLAN_71", "Var god vänta...");
+define("DBLAN_72", "Mapp- och filrättigheter har uppdaterats");
+define("DBLAN_73", "Korrigerar fil- och katalogrättigheter");
+define("DBLAN_74", "Ansluter till server");
+define("DBLAN_75", "Skapar databas");
+define("DBLAN_76", "Väljer databas");
+define("DBLAN_77", "Kunde inte läsa kärnan i SQL-filen");
+define("DBLAN_78", "Tabell");
+define("DBLAN_79", "Motor");
+define("DBLAN_80", "Kollationering");
+define("DBLAN_81", "Status");
+define("DBLAN_82", "Denna funktion kommer att modifiera alla dina tabeller i databasen permanent. ([database])");
+define("DBLAN_83", "Det är [b]ABSOLUT[/b] tillrådligt att först säkerhetskopiera din databas och ta ner webbplatsen för underhåll.");
+define("DBLAN_84", "Vänligen notera:");
+define("DBLAN_85", "Konverteringen kan ta upp till en minut eller mycket längre beroende på storleken på databasen.");
+define("DBLAN_86", "Konverteringen fungerar inte med serialized arrays");
+define("DBLAN_87", "Var säker på att du har följt alla stegen i uppgraderingsprocessen först.");
+define("DBLAN_88", "Kärnpreferenser ignoreras under konverteringen för att undvika att dessa blir korrupta");
+define("DBLAN_89", "Konvertera databas");
+define("DBLAN_90", "Konvertera icke-UTF8 tabeller");
+define("DBLAN_91", "Var god vänta...");
+define("DBLAN_92", "Dina tabeller använder korrekt teckenuppsättning.");
+define("DBLAN_93", "Databasen konverterades korrekt till UTF-8.");
+define("DBLAN_94", "Vänligen se till att du har följande rad i din e107_config.php fil:");
+define("DBLAN_95", "Export valmöjligheter");
+define("DBLAN_97", "Tabeller");
+define("DBLAN_98", "Rader");
+define("DBLAN_99", "Tabelldata:");
+define("DBLAN_100", "Konvertera sökvägar och paketera bilder och xml till:");
+define("DBLAN_101", "Exportera fil");
+define("DBLAN_102", "Export valmöjligheter");
+define("DBLAN_103", "Instoppad");
+define("DBLAN_104", "Lyckades inte att stoppa in");
+define("DBLAN_105", "Bunta ihop kodförkortningar");
+define("DBLAN_106", "(tom)");
+define("DBLAN_107", "[folder] är skrivskyddad");
+define("DBLAN_108", "Skapad:");
+define("DBLAN_109", "Kopierad:");
+define("DBLAN_110", "Kunde inte kopiera");
+define("DBLAN_111", "Tabellerna verkar vara okej!");
+define("DBLAN_112", "Synkronisera med Github");
+define("DBLAN_113", "Skriv över filer");
+define("DBLAN_114", "Utvecklar-läge endast");
+define("DBLAN_115", "Skriv över lokala filer med de senaste från Github");
+define("DBLAN_116", "Detta kommer att ladda ner den senaste zip-filen från Github till");
+define("DBLAN_117", "och sedan packa upp den, samt skriva över alla filer den kan finna på servern. Den kommer att göra undantag för alla egna mappar som du har listat i e107_config.php");
+define("DBLAN_118", "Kunde inte ladda ner Zip-filen");
+define("DBLAN_119", "Säkerhetskopiera");
+define("DBLAN_120", "Påbörjar säkerhetskopiering");
+define("DBLAN_121", "Flyttar [x] till [y]");
+
+
+?>
