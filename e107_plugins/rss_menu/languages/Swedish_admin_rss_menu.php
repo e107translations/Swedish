@@ -62,11 +62,10 @@ define("RSS_LAN_ADMIN_23", "Inaktiv");
 define("RSS_LAN_ADMIN_26", "Markera alla");
 define("RSS_LAN_ADMIN_27", "Avmarkera alla");
 define("RSS_LAN_ADMIN_31", "rss poster begränsningar uppdaterades");
-define("RSS_LAN_ADMIN_32", "");
+// define("RSS_LAN_ADMIN_32", "");
 define("RSS_LAN_ADMIN_33", "Visa bild i nyhetsflödet");
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@nospam.com");
 define("RSS_LAN_3", "noauthor@nospam.com");
 
 
-?>

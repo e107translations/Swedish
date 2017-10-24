@@ -26,4 +26,3 @@ define("BANNERLAN_35", "Klickbara IP-adresser");
 define("BANNERLAN_39", "Ingen bild har förknippats med denna banner.");
 
 
-?>

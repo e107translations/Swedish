@@ -27,4 +27,3 @@ define("LAN_EFORM_015", "redigera nuvarande");
 define("LAN_EFORM_016", "Efter du skickat in");
 
 
-?>

@@ -59,4 +59,3 @@ define("LAN_ERROR_45", "Vad kan du göra nu?");
 define("LAN_ERROR_46", "Kontrollera loggen för mer information");
 
 
-?>

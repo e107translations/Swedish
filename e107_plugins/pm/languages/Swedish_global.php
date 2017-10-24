@@ -26,4 +26,3 @@ define("LAN_PLUGIN_PM_ATTACHMENT", "Bilaga");
 define("LAN_PLUGIN_PM_SIZE", "Storlek");
 
 
-?>

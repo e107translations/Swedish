@@ -33,4 +33,3 @@ define("LAN_VALIDATE_204", "Filstorleken är mindre än minsta filstorlek");
 define("LAN_VALIDATE_FAILMSG", "[x] fel vid validering [y] [z].");
 
 
-?>

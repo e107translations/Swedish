@@ -23,4 +23,3 @@ define("LAN_AL_DOWNL_10", "Nedladdningar- Begränsning har uppdaterats");
 define("LAN_AL_DOWNL_11", "Nedladdningar- Begränsning har tagits bort");
 
 
-?>

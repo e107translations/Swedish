@@ -22,4 +22,3 @@ define("LAN_AL_PM_ADM_09", "PM: Fel vid uppdatering av begränsning");
 define("LAN_AL_PM_ADM_10", "PM: Fel vid borttagning av begränsning");
 
 
-?>

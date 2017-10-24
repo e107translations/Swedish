@@ -85,4 +85,3 @@ define("ADLAN_PM_92", "Testmejl skickat!");
 define("ADLAN_PM_93", "Testmejl misslyckades!");
 
 
-?>

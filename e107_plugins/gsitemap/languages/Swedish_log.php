@@ -16,4 +16,3 @@ define("LAN_AL_GSMAP_03", "SiteMaplänk tlllagd");
 define("LAN_AL_GSMAP_04", "SiteMaplänk uppdaterad");
 
 
-?>

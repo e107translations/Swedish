@@ -53,4 +53,3 @@ define("UPLLAN_69", "Importerad");
 define("UPLLAN_70", "Skicka till [x]");
 
 
-?>

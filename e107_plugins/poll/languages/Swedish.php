@@ -28,4 +28,4 @@ define("POLLAN_43", "Du har inte behörighet att rösta i denna fråga");
 define("LAN_FORUM_3029", "Om du inte vill ha en omröstning inlagd i tråden , lämna fältet tomt.");
 
 
-?>
+define("POLLAN_50", "Aktiv från [x] till [y]");

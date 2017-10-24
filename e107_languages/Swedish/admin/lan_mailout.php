@@ -43,7 +43,7 @@ define("LAN_MAILOUT_36", "Radera studsande mejl efter granskning");
 define("LAN_MAILOUT_37", "Fortsätt");
 define("LAN_MAILOUT_38", "Avbryt");
 define("LAN_MAILOUT_39", "mejlandet");
-define("LAN_MAILOUT_40", "Du måste byta namn på <b>e107.htaccess</b>till <b>.htaccess</b> i");
+define("LAN_MAILOUT_40", "Du måste byta namn på [b]e107.htaccess[/b]till [b].htaccess[/b] i");
 define("LAN_MAILOUT_41", "före du gör utskick från den här sidan");
 define("LAN_MAILOUT_43", "Användarnamn");
 define("LAN_MAILOUT_44", "Användarens login");
@@ -193,8 +193,8 @@ define("LAN_MAILOUT_205", "Fel format för mejlutskick");
 define("LAN_MAILOUT_206", "Ogiltigt mejl ID (--ID--) specificerad");
 define("LAN_MAILOUT_207", "Fel vid laddning av mall");
 define("LAN_MAILOUT_208", "Mallkonverteringsfel");
-define("LAN_MAILOUT_209", "");
-define("LAN_MAILOUT_210", "");
+// define("LAN_MAILOUT_209", "");
+// define("LAN_MAILOUT_210", "");
 define("LAN_MAILOUT_211", "Skickade");
 define("LAN_MAILOUT_212", "Misslyckade");
 define("LAN_MAILOUT_213", "Studsade");
@@ -256,4 +256,5 @@ define("LAN_MAILOUT_268", "Utvecklarläge endast");
 define("LAN_MAILOUT_269", "Skicka senare");
 
 
-?>
+define("LAN_MAILOUT_270", "Testa SMTP-anslutning");
+define("LAN_MAILOUT_271", "Autentisering misslyckades med användarnamn ([x]) och lösenord ([y]):");

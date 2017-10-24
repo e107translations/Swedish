@@ -20,7 +20,6 @@ define("COUNTER_L4", "Denna sida sedan start");
 define("COUNTER_L5", "unika");
 define("COUNTER_L6", "Sajt");
 define("COUNTER_L7", "Räknare");
-define("COUNTER_L8", "Adminmeddelande: <b>Statistikloggning har inaktiverats.</b><br />För att aktivera , behöver du installera Statistikloggnings-pluginen från din <a href='".e_ADMIN."plugin.php'>pluginhanterare</a>, och sedan aktivera den från  <a href='".e_PLUGIN."log/admin_config.php'>konfigurationssidan</a>.");
+define("COUNTER_L8", "Adminmeddelande: [b]Statistikloggning har inaktiverats.[/b]<br />För att aktivera , behöver du installera Statistikloggnings-pluginen från din <a href='".e_ADMIN."plugin.php'>pluginhanterare</a>, och sedan aktivera den från  <a href='".e_PLUGIN."log/admin_config.php'>konfigurationssidan</a>.");
 
 
-?>

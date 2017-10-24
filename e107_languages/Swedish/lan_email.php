@@ -34,4 +34,3 @@ define("LAN_EMAIL_190", "Ange synlig kod");
 define("LAN_SOCIAL_LINK_CHK", "Spana in denna länk:");
 
 
-?>

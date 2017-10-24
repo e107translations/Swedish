@@ -19,4 +19,3 @@ define("LAN_EC_PM_06", "Påbörja bearbetning av PM massutskick för --NUM-- mot
 define("LAN_EC_PM_07", "");
 
 
-?>

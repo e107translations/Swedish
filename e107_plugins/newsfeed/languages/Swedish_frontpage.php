@@ -13,4 +13,3 @@ define("NWSF_FP_1", "Nyhetsflöden");
 define("NWSF_FP_2", "Huvudsida");
 
 
-?>

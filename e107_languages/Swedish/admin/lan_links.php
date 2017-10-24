@@ -30,4 +30,3 @@ define("LINKLAN_9", "Nedladdningsategorier");
 define("LINKLAN_10", "Temats kodsnuttar");
 
 
-?>

@@ -17,4 +17,3 @@ define("TMCEALAN_4", "Visuella block");
 define("TMCEALAN_5", "Aktivera för att synliggöra html-block under redigering");
 
 
-?>

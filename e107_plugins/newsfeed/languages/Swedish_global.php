@@ -14,4 +14,3 @@ define("LAN_PLUGIN_NEWSFEEDS_NAME", "Nyhetsflöden");
 define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Denna plugin hämtar in RSS-flöden från andra webbplatser och visar dem enligt dina preferenser.");
 
 
-?>

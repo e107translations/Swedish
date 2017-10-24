@@ -35,4 +35,3 @@ define("EMOLAN_37", "Ingen uttryckssymbol är vald");
 define("EMOLAN_38", "Töm uttryckssymbolens värde");
 
 
-?>

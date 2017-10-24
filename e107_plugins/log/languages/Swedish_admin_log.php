@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("ADSTAT_L1", "Denna plugin kommer att logga alla besök på din webbplats och skapa detaljerad statistik baserade på den inhämtade informationen");
-define("ADSTAT_L2", "Statistikloggaren har installerats.För att aktivera gå till konfigureringssidan och klicka på aktivera<br /><b>Du måste sätta filrättigheterna på e107_plugins/log/logs mappen till 777 (chmod 777)</b>");
+define("ADSTAT_L2", "Statistikloggaren har installerats.För att aktivera gå till konfigureringssidan och klicka på aktivera<br />[b]Du måste sätta filrättigheterna på e107_plugins/log/logs mappen till 777 (chmod 777)[/b]");
 define("ADSTAT_L3", "Statistikloggning");
 define("ADSTAT_L4", "Aktivera statistikloggning");
 define("ADSTAT_L5", "Statistiktyper");
@@ -89,4 +89,3 @@ define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
 
 
-?>

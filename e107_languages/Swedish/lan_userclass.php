@@ -20,4 +20,3 @@ define("UC_LAN_INVERT", "Inte --CLASS--");
 define("UC_LAN_INVERTLABEL", "Alla förutom");
 
 
-?>

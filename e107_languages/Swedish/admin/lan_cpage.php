@@ -49,4 +49,8 @@ define("CUSLAN_78", "Kunde inte radera meny med sökväg");
 define("CUSLAN_79", "Du måste fylla i en sidtitel eller menynamn");
 
 
-?>
+define("CUSLAN_1", "Översikt");
+define("CUSLAN_2", "Sidans titel");
+define("CUSLAN_3", "Poster per sida");
+define("CUSLAN_4", "Anpassade fält");
+define("CUSLAN_5", "(Ny bok)");

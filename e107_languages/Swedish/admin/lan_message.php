@@ -20,4 +20,3 @@ define("MESSLAN_11", "öppnas i nytt fönster");
 define("MESSLAN_12", "Meddelande");
 define("MESSLAN_13", "Länk");
 
-?>

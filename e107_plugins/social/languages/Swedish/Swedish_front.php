@@ -25,4 +25,3 @@ define("LAN_SOCIAL_205", "Kan inte skapa kommentar. Saknar Facebook appID");
 define("LAN_SOCIAL_WARNING", "Facebookkommentarer kräver att du har ett facebook appID. Gå till 'social login' i adminpanelen - Preferenser för att lägga till ett.");
 
 
-?>

@@ -115,4 +115,3 @@ define("DBLAN_120", "Påbörjar säkerhetskopiering");
 define("DBLAN_121", "Flyttar [x] till [y]");
 
 
-?>

@@ -9,7 +9,7 @@ define("TOP_LAN_0", "Toppostare i forum");
 define("TOP_LAN_1", "Användarnamn");
 define("TOP_LAN_2", "Inlägg");
 define("TOP_LAN_3", "Toppostare, kommentarer");
-define("TOP_LAN_4", "Kommentarer");
+// define("TOP_LAN_4", "Kommentarer");
 define("TOP_LAN_5", "Toppostare, chattruta");
 define("TOP_LAN_6", "Webbplatsbetyg");
 define("LAN_1", "Tråd");
@@ -22,4 +22,3 @@ define("LAN_7", "Mest aktiva trådar");
 define("LAN_8", "Toppostare");
 
 
-?>

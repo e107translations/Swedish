@@ -42,4 +42,3 @@ define("NFPM_L23", "Kungörande");
 define("NFPM_L24", "Stängd tråd");
 
 
-?>

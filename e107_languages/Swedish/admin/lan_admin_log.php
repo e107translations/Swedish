@@ -69,7 +69,7 @@ define("RL_LAN_092", "Tidsperiod");
 define("RL_LAN_093", "(min)");
 define("RL_LAN_094", "Detaljerade klockslagsanalyser");
 define("RL_LAN_096", "Diff (s)");
-define("RL_LAN_098", "Källa");
+// define("RL_LAN_098", "Källa");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Ämne");
@@ -99,4 +99,3 @@ define("RL_LAN_134", "Varning");
 define("RL_LAN_135", "Ödesdiger");
 
 
-?>

@@ -53,4 +53,3 @@ define("LAN_dl_77", "Nedladdningar");
 define("LAN_dl_78", "Den nedladdningen har inaktiverats eller tagits ur bruk. Kolla in [downloads area] för en senare version.");
 
 
-?>

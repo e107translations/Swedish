@@ -14,4 +14,3 @@ define("LAN_GALLERY_FRONT_01", "Högerklicka > Spara länk som");
 define("LAN_GALLERY_FRONT_02", "Förstora bilden");
 
 
-?>

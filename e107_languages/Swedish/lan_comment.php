@@ -72,4 +72,3 @@ define("COMLAN_500", "Vänligen [logga in] för att kommentera");
 define("COMLAN_501", "Om du inte redan är registrerad, kan du [registrera dig här]");
 
 
-?>

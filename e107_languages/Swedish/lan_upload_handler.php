@@ -16,7 +16,7 @@ define("LANUPLOAD_8", "Ingen fil laddades upp.");
 define("LANUPLOAD_9", "Uppladdad filstorlek 0 bytes");
 define("LANUPLOAD_10", "Uppladdning misslyckades [Dubblerat filnamn] - En fil med samma namn finns redan.");
 define("LANUPLOAD_11", "Filen laddades inte upp. Filnamn: ");
-define("LANUPLOAD_12", "Fel");
+// define("LANUPLOAD_12", "Fel");
 define("LANUPLOAD_13", "Temporär mapp saknas");
 define("LANUPLOAD_14", "Det gick inte att skriva till filen");
 define("LANUPLOAD_15", "Uppladdning är inte tillåten");
@@ -26,4 +26,3 @@ define("LANUPLOAD_18", "Den uppladdade filen överskrider de tillåtna gränser.
 define("LANUPLOAD_19", "För många filer uppladdade - den överskridna mängden är raderad.");
 
 
-?>

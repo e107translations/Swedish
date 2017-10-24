@@ -25,4 +25,3 @@ define("ADMSLAN_72", "Admin ID: --ID-- namn: --NAME-- nya rättigheter:");
 define("ADMSLAN_73", "Admin ID: --ID-- namn: --NAME--");
 
 
-?>

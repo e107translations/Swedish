@@ -14,4 +14,3 @@ define("LAN_PLUGIN_DOWNLOAD_NAME", "Nedladdningar");
 define("LAN_PLUGIN_DOWNLOAD_DIZ", "Denna plugin är ett fullfjädrat filnedladdningssystem");
 
 
-?>

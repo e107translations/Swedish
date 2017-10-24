@@ -43,7 +43,7 @@ define("LAN_CRON_20_3", "Rekommenderas för att hålla systemet uppdaterat.");
 define("LAN_CRON_20_4", "Uppdatera detta githubarkiv");
 define("LAN_CRON_20_5", "Uppdatera denna e107 installation med de senaste filerna från github");
 define("LAN_CRON_20_6", "Rekommenderas endast för utvecklare");
-define("LAN_CRON_20_7", "Varning!");
+// define("LAN_CRON_20_7", "Varning!");
 define("LAN_CRON_20_8", "Kan orsaka instabilitet på webbplatsen");
 define("LAN_CRON_30", "Varje minut");
 define("LAN_CRON_31", "Varannan minut");
@@ -73,4 +73,3 @@ define("LAN_CRON_LOGGING", "Loggar");
 define("LAN_CRON_RUNNING", "Körs");
 
 
-?>

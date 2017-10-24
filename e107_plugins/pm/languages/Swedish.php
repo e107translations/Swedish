@@ -95,4 +95,3 @@ define("LAN_PM_114", "Du har inte behörighet att skicka till denna användare")
 define("LAN_PM_115", "Användaren hittades inte");
 
 
-?>

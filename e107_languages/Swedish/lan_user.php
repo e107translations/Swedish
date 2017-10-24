@@ -86,4 +86,9 @@ define("LAN_XUP_ERRM_05", "Registrering misslyckades! Användaren finns redan. A
 define("LAN_XUP_ERRM_06", "Registrering misslyckades! Ingen åtkomst till mejladressen - registrering utan mejladress är omöjlig.");
 
 
-?>
+define("LAN_XUP_ERRM_07", "Social inloggning testare");
+define("LAN_XUP_ERRM_08", "Vänligen logga ut från e107 innan du testar den nya-user login/registreringsförfarandet.");
+define("LAN_XUP_ERRM_09", "Testa inloggning endast med [x]");
+define("LAN_XUP_ERRM_10", "Testa signup/inloggning med [x]");
+define("LAN_XUP_ERRM_11", "Inloggad:");
+define("LAN_XUP_ERRM_12", "Test logout");

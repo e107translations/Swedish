@@ -93,4 +93,4 @@ define("LAN_EURL_REGULAR_EXPRESSION", "Reguljära uttryck");
 define("LAN_EURL_KEY", "Key");
 
 
-?>
+define("LAN_EURL_TABLE", "Tabell");

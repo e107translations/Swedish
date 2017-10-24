@@ -66,4 +66,21 @@ define("LAN_CONVERT_55", "BasURL sökvägen (dvs den mapp) där drupal är insta
 define("LAN_CONVERT_56", "Drupal bassökväg");
 
 
-?>
+define("LAN_CONVERT_57", "Inget fel");
+define("LAN_CONVERT_58", "Skränande\ 't ändra viktigaste admin data");
+define("LAN_CONVERT_59", "Ogiltigt fält passerade");
+define("LAN_CONVERT_60", "Obligatoriska fält inte inställd");
+define("LAN_CONVERT_61", "Det finns redan användare");
+define("LAN_CONVERT_62", "Ogiltiga tecken i eller login användarnamn");
+define("LAN_CONVERT_63", "Fel vid sparande av utökade användarfält");
+define("LAN_CONVERT_64", "Välj");
+define("LAN_CONVERT_65", "Sidor");
+define("LAN_CONVERT_66", "Sidan kapitlen");
+define("LAN_CONVERT_67", "Länkar");
+define("LAN_CONVERT_68", "Media");
+define("LAN_CONVERT_69", "Forum");
+define("LAN_CONVERT_70", "Forum ämnen/trådar");
+define("LAN_CONVERT_71", "Foruminlägg");
+define("LAN_CONVERT_72", "Forum spår");
+define("LAN_CONVERT_73", "Userclasses");
+define("LAN_CONVERT_74", "Nyhetskategorier");

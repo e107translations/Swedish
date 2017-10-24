@@ -38,4 +38,7 @@ define("LAN_LOGIN_30", "Fel när ny alt_auth användare skulle läggas till DB")
 define("LAN_LOGIN_31", "Dina uppgifter kunde inte läggas till i systemet");
 
 
-?>
+define("LAN_LOGIN_32", "Du ser det här meddelandet eftersom du är inloggad som Main Admin.");
+define("LAN_LOGIN_33", "[Tillbaka till hemsidan]");
+define("LAN_LOGIN_34", "Användarregistrering eller login är för närvarande inaktiverad.");
+define("LAN_LOGIN_35", "[Aktivera det]");

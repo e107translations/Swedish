@@ -81,4 +81,3 @@ define("LAN_GALLERY_ADMIN_70", "Ladda prettyPhoto att gälla hela sajten");
 define("LAN_GALLERY_ADMIN_71", "prettyPhoto attribut (hook)");
 
 
-?>

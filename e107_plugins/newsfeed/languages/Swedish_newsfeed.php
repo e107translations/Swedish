@@ -19,4 +19,3 @@ define("NFLAN_39", "Detaljer");
 define("NFLAN_48", "Kan inte spara rådata till databasen");
 
 
-?>

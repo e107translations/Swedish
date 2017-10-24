@@ -61,14 +61,4 @@ define("ADSTAT_L49", "ordna alfabetiskt");
 define("ADSTAT_L50", "All-time stats");
 define("ADSTAT_L51", "Nuvarande månads stats");
 define("ADSTAT_L52", "Föregående månads stats");
-define("ADSTAT_L53", "");
-define("ADSTAT_L54", "");
-define("ADSTAT_L55", "");
-define("ADSTAT_L56", "");
-define("ADSTAT_L57", "");
-define("ADSTAT_L58", "");
-define("ADSTAT_L59", "");
-define("ADSTAT_L60", "");
-
-
-?>
+define("ADSTAT_L53", "Information");

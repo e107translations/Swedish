@@ -255,7 +255,7 @@ define("LAN_STATUS", "Status");
 define("LAN_URL", "URL");
 define("LAN_OWNER", "Ägare");
 define("LAN_PURCHASE", "Inköp");
-define("LAN_DOWN_THEME", "Laddar ner");
+// define("LAN_DOWN_THEME", "Laddar ner");
 define("LAN_ID", "ID");
 define("LAN_TEST", "Test");
 define("LAN_VISIBILITY", "Synlighet");
@@ -366,4 +366,21 @@ define("LAN_ERROR_CONNECTION", "Kan inte ansluta för uppdatering.
 Kontrollera brandvägg och/eller internetuppkoppling.");
 
 
-?>
+define("ADLAN_187", "Inte skapa [x]. Vänligen kontrollera dina mappbehörigheter.");
+define("ADLAN_188", "Din tidszon inställning [x] är ogiltigt. Det har återställts till UTC. Att ändra, vänligen gå till Admin-> inställningar-> datum visningsalternativ.");
+define("ADLAN_189", "Följande plugins är inte kompatibla med denna version av e107 och bör avinstalleras:");
+define("LAN_CLICK_HERE", "KLICKA HÄR");
+define("LAN_SESSION", "Session");
+define("LAN_ASC", "ASC");
+define("LAN_DESC", "DESC");
+define("LAN_PASSWORD_WARNING", "Det är högst rekommenderat att du [Ändra lösenord kodningen] den PHP standard. (Lösenord hashes automatiskt uppgraderas under användarinloggning.)");
+define("LAN_DETAILS", "Detaljer");
+define("LAN_AUTOMATION", "Automation");
+define("LAN_DOWNLOADING", "Nedladdning");
+define("LAN_UI_FILE_DELETED", "[x] fil har tagits bort!");
+define("LAN_UI_FILE_DELETED_FAILED", "Det går inte att ta bort [x]! Ta bort filen manuellt.");
+define("LAN_DISPLAY", "Displayen");
+define("LAN_UNINSTALL", "Avinstallera");
+define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan inte vara samma som [y]");
+define("LAN_UI_VIEW_GRID_LABEL", "Rutnätsvy");
+define("LAN_UI_VIEW_LIST_LABEL", "Listvy");

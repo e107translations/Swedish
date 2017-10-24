@@ -14,4 +14,3 @@ define("LAN_PLUGIN_BANNER_NAME", "Banner");
 define("LAN_PLUGIN_BANNER_DESCRIPTION", "Lägg till reklambanner till din e107 sajt.");
 
 
-?>

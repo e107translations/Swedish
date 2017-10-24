@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("ADSTAT_LAN_1", "Denna plugin kommer att logga alla besök på din webbplats och skapa detaljerad statistik baserade på den inhämtade informationen");
-define("ADSTAT_LAN_2", "Statistikloggaren har installerats.För att aktivera gå till konfigureringssidan och klicka på aktivera<br /><b>Du måste sätta filrättigheterna på e107_plugins/log/logs mappen till 777 (chmod 777)</b>");
+define("ADSTAT_LAN_2", "Statistikloggaren har installerats.För att aktivera gå till konfigureringssidan och klicka på aktivera<br />[b]Du måste sätta filrättigheterna på e107_plugins/log/logs mappen till 777 (chmod 777)[/b]");
 define("ADSTAT_LAN_3", "Statistikloggning");
 define("ADSTAT_LAN_4", "Aktivera statistikloggning");
 define("ADSTAT_LAN_5", "Statistiktyper");
@@ -90,4 +90,8 @@ define("ADSTAT_LAN_85", "[x] loggfiler har påträffats. Klicka på knappen neda
 define("ADSTAT_LAN_86", "Totalt antal träffar");
 
 
-?>
+define("ADSTAT_LAN_87", "Återskapa statistik sammanfattningar");
+define("ADSTAT_LAN_88", "Återskapa statistik");
+define("ADSTAT_LAN_89", "Återskapa");
+define("ADSTAT_LAN_90", "Data sparas i databasen med id: [x]");
+define("ADSTAT_LAN_91", "Kunde inte spara data till databasen med id: [x]");

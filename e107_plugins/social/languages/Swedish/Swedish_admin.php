@@ -55,4 +55,3 @@ define("LAN_SOCIAL_ADMIN_41", "Uppdatera användarens avatar");
 define("LAN_SOCIAL_ADMIN_42", "Personlig bild");
 
 
-?>

@@ -12,4 +12,3 @@ define("LAN_DOCS_ANSWER", "Svar");
 define("LAN_DOCS_QUESTION", "Fråga");
 
 
-?>

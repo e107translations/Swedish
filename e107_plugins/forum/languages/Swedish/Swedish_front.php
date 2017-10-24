@@ -204,7 +204,7 @@ define("LAN_FORUM_5005", "Tråd flyttades");
 define("LAN_FORUM_5006", "Flytten avbröts");
 define("LAN_FORUM_5007", "Tillbaka till forum");
 define("LAN_FORUM_5008", "Forum konfiguration");
-define("LAN_FORUM_5009", "Är du absolut säker på att du vill radera denna omröstning? <br />Har den raderats kan dent <b><u>inte</u></b> återskapas.");
+define("LAN_FORUM_5009", "Är du absolut säker på att du vill radera denna omröstning? <br />Har den raderats kan dent [b]<u>inte</u>[/b] återskapas.");
 define("LAN_FORUM_5010", "Bekräfta radering av foruminlägg");
 define("LAN_FORUM_5019", "Flytta tråd");
 define("LAN_FORUM_5021", "flyttad");
@@ -266,4 +266,3 @@ define("LAN_FORUM_8028", "Tillbaka");
 define("LAN_FORUM_8029", "Ny diskussion skapad");
 
 
-?>

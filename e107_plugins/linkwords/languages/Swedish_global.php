@@ -14,4 +14,3 @@ define("LAN_PLUGIN_LINKWORDS_NAME", "Länkord");
 define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Denna plugin kommer koppla ihop ord med en definierad länk eller ballongtips");
 
 
-?>

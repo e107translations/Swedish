@@ -30,4 +30,3 @@ define("LAN_LIBRARY_MANAGER_31", "Använd CDN för kärnbibliotek");
 define("LAN_LIBRARY_MANAGER_32", "CDN tjänst");
 
 
-?>

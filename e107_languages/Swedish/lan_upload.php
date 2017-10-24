@@ -45,4 +45,3 @@ define("LAN_419", "Tillåtna filtyper");
 define("LAN_420", "fält är obligatoriska");
 
 
-?>

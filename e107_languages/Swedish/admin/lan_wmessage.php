@@ -14,4 +14,3 @@ define("WMLAN_12", "Hjälp för Välkomstmeddelande");
 define("WMLAN_13", "Denna sida tillåter dig att visa ett budskap högst upp på förstasidan så länge den är aktiverad. Du kan välja att ha olika budskap för gäster, registrerade/inloggade medlemmar och administratörer");
 
 
-?>

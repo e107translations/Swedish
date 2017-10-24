@@ -18,4 +18,3 @@ define("PHP_LAN_5", "Detta är en säkerhetsrisk och bör inaktiveras");
 define("PHP_LAN_6", "[b]session.save_path[/b] är skrivskyddad! Det kan ställa till med stora problem med din sajt.");
 
 
-?>

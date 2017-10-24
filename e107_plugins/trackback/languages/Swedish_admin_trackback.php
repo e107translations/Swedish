@@ -19,4 +19,3 @@ define("TRACKBACK_L13", "Moderera bakåtspårning");
 define("TRACKBACK_L16", "Spåra bakåt");
 
 
-?>

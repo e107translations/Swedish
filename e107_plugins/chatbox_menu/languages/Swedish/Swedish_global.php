@@ -25,4 +25,3 @@ define("NT_LAN_CB_5", "Meddelande");
 define("NT_LAN_CB_6", "Chatt-inlägg publicerad");
 
 
-?>

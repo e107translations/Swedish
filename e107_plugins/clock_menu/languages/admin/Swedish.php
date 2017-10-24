@@ -24,4 +24,3 @@ define("CLOCK_AD_L12", "Suffix 4 osv...");
 define("CLOCK_AD_L13", "Om ditt språk behöver ett suffix efter siffrorna i datumet fyll i dessa fält med enbart suffixet. (Exempelvis 'st' för 1, 'nd' för 2, 'rd' för 3 och 'th' för 4 eller mer - för Engelska användare) annars låt fälten förbli tomma");
 
 
-?>

@@ -34,4 +34,3 @@ define("CHATBOX_L25", "[ Detta inlägg har blockerats av admin ]");
 define("LAN_CHATBOX_100", "Skriv ditt meddelande här.");
 
 
-?>

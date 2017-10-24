@@ -23,4 +23,3 @@ define("CM_L12", "Re:");
 define("CM_L13", "Inskickad av");
 
 
-?>

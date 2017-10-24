@@ -11,4 +11,3 @@ define("METLAN_2", "Lägg till ytterligare meta-taggar");
 define("METLAN_3", "Lägg till nya metatagg inställningar");
 
 
-?>

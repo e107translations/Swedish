@@ -16,4 +16,3 @@ define("LAN_AL_STAT_03", "Stats - sidor borttagna");
 define("LAN_AL_STAT_04", "Stats - ålderdomliga data borttagna");
 
 
-?>

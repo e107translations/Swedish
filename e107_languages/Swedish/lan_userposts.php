@@ -20,9 +20,8 @@ define("UP_LAN_9", " den ");
 define("UP_LAN_10", "Ang");
 define("UP_LAN_11", "Postat den");
 define("UP_LAN_12", "Sök");
-define("UP_LAN_13", "Kommentarer");
+// define("UP_LAN_13", "Kommentarer");
 define("UP_LAN_14", "Foruminlägg");
 define("UP_LAN_15", "Ang");
 define("UP_LAN_16", "IP-adress");
 
-?>

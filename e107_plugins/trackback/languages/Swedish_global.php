@@ -14,4 +14,3 @@ define("LAN_PLUGIN_TRACKBACK_NAME", "Bakåtspårning");
 define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Denna plugin tillåter att bakåtspårning används för nyhetsobjekt");
 
 
-?>

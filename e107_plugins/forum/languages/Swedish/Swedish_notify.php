@@ -23,4 +23,3 @@ define("LAN_FORUM_NT_POST_DELETED", "Inlägg raderat");
 define("LAN_FORUM_NT_POST_REPORTED", "Inlägg rapporterat");
 
 
-?>

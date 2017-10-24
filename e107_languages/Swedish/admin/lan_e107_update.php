@@ -44,4 +44,3 @@ define("LAN_UPDATE_CAPTION_PLUGIN", "Programuppdateringar");
 define("LAN_UPDATE_CAPTION_CORE", "Uppdateringar för kärnan");
 
 
-?>

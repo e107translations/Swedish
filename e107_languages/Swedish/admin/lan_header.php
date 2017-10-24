@@ -13,4 +13,3 @@ define("LAN_HEADER_05", "språk som visas i adminsektionen");
 define("LAN_HEADER_06", "Info om program");
 
 
-?>

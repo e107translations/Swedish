@@ -97,4 +97,3 @@ define("LAN_SEARCH_201", "Var vänlig och omdefiniera din sökfråga");
 define("LAN_SEARCH_202", "Växla Avancerad");
 
 
-?>

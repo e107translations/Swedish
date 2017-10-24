@@ -16,4 +16,3 @@ define("LAN_PLUGIN_SOCIAL_XUP_REG", "Registrera dig med ditt [x]-konto");
 define("LAN_PLUGIN_SOCIAL_NAME", "Social");
 
 
-?>

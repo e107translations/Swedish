@@ -57,4 +57,3 @@ define("LAN_LOGINMENU_50", "Användarnamn eller mejladress");
 define("LAN_LOGINMENU_51", "Logga in");
 
 
-?>

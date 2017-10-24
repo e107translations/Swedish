@@ -19,4 +19,12 @@ define("FBLAN_23", "Använd Tema-stil");
 define("FBLAN_24", "Simpel");
 
 
-?>
+define("FBLAN_25", "Det finns inget featurebox-objekt som tilldelats mallen [x].");
+define("FBLAN_26", "Bild/Video");
+define("FBLAN_27", "Bildlänk");
+define("FBLAN_28", "Featurebox-menyn kategori");
+define("FBLAN_29", "Kategori för menyn featurebox");
+define("FBLAN_30", "Kategorimallen");
+define("FBLAN_31", "Slumpmässiga");
+define("FBLAN_32", "Parametrar (tillval)");
+define("FBLAN_33", "Valfria Javascript parametrar (format ändras)");

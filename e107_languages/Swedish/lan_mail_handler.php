@@ -14,4 +14,3 @@ define("LANMAILH_6", "Kan inte hitta e-postservern.");
 define("LANMAILH_7", " verkar vara giltig.");
 
 
-?>

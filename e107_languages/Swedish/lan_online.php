@@ -56,4 +56,3 @@ define("REVIEW", "Recension");
 define("OTHER", "Annan sida:");
 
 
-?>

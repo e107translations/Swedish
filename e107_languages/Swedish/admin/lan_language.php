@@ -61,4 +61,5 @@ define("LANG_LAN_149", "Värde");
 define("LANG_LAN_150", "[b]Sök igenom hela kärnan innan du kommenterar ut NÅGON LAN från NÅGON språkfil.[/b]");
 
 
-?>
+define("LANG_LAN_151", "Tillgängliga");
+define("LANG_LAN_152", "Artighet av [e107 översättningar team]");

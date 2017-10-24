@@ -62,4 +62,3 @@ define("LIST_DOWNLOAD_1", "nedladdningar");
 define("LIST_DOWNLOAD_2", "inga nedladdningar");
 
 
-?>

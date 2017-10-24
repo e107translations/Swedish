@@ -58,7 +58,7 @@ define("NWSLAN_83", "Nyhetsartikel");
 define("NWSLAN_84", "Välj vilka som ska kunna se nyhetsartikeln");
 define("NWSLAN_86", "Visa kategorier under nyhetsartiklarna");
 define("NWSLAN_87", "Antal kolumner för kategorierna");
-define("NWSLAN_88", "Antal nyhetsartiklar att visa per sida<br/>1. Ange först det totala antalet nyhetsartiklar per sida <b>inklusive arkivet</b> och spara preferenserna.<br />");
+define("NWSLAN_88", "Antal nyhetsartiklar att visa per sida<br/>1. Ange först det totala antalet nyhetsartiklar per sida [b]inklusive arkivet[/b] och spara preferenserna.<br />");
 define("NWSLAN_90", "Preferenser");
 define("NWSLAN_100", "Aktivera bilduppladdning på sidan Skicka in nyhetsartikel ( submitnews.php )");
 define("NWSLAN_101", "Automatisk skalning av insänd bild på sidan Skicka in nyhetsartikel ( submitnews.php )");
@@ -74,7 +74,7 @@ define("NWSLAN_112", "Om denna ruta är markerad kommer nyhetsartiklar grupperas
 define("NWSLAN_113", "Använd temats mall för nyhetsartikel-layouten");
 define("NWSLAN_114", "Om temat du använder har en layoutmall för nyhetsartiklar, använd denna istället för den generiska layouten.");
 define("NWSLAN_115", "Antal nyhetsartiklar att visa i arkiv ( med endast rubrik )");
-define("NWSLAN_116", "2. Ange hur många av ovanstående antal nyhetsartiklar som skall visas <b>i arkivet</b> och spara preferenserna igen ( 0 är avaktiverat ). Mellanskillnaden är det antal som kommer visas med rubrik, bild och ingress, på normalt sätt.");
+define("NWSLAN_116", "2. Ange hur många av ovanstående antal nyhetsartiklar som skall visas [b]i arkivet[/b] och spara preferenserna igen ( 0 är avaktiverat ). Mellanskillnaden är det antal som kommer visas med rubrik, bild och ingress, på normalt sätt.");
 define("NWSLAN_117", "Rubrik för arkivet");
 define("NWSLAN_120", "Text att visa överst på sidan Skicka in nyhetsartikel ( submitnews.php )");
 define("NWSLAN_121", "Ingenting påträffades för %s");
@@ -89,7 +89,7 @@ define("LAN_NEWS_32", "Tidstämpel");
 define("LAN_NEWS_33", "Tidstämpla denna nyhetsartikel.");
 define("LAN_NEWS_34", "Källor");
 define("LAN_NEWS_35", "Ange källors webbadresser");
-define("LAN_NEWS_37", "<b>Källors webbadresser:</b> ( en webbadress per rad )");
+define("LAN_NEWS_37", "[b]Källors webbadresser:[/b] ( en webbadress per rad )");
 define("LAN_NEWS_49", "Renderingstyp");
 define("LAN_NEWS_51", "Beräkna kommentarer ( igen )");
 define("LAN_NEWS_52", "Fortsätt");
@@ -106,7 +106,7 @@ define("LAN_NEWS_62", "Fel när databasen skulle anropas, eller så hittades ing
 define("LAN_NEWS_63", "Skapa kategori");
 define("LAN_NEWS_64", "Äldre inskickade");
 define("LAN_NEWS_65", "Välj en unik SEF URL sträng för denna kategori");
-define("LAN_NEWS_66", "");
+// define("LAN_NEWS_66", "");
 define("LAN_NEWS_67", "Stäng");
 define("LAN_NEWS_68", "Inskickat objekt");
 define("LAN_NEWS_69", "Förvald area");
@@ -143,4 +143,3 @@ define("LAN_NEWS_110", "Nyhetscachens väntetid");
 define("LAN_NEWS_111", "Tid i minuter. Fungerar endast när systemcache är aktiverad.");
 
 
-?>

@@ -16,4 +16,3 @@ define("LAN_PLUGIN_RSS_SUBSCRIBE", "Prenumerera");
 define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "Prenumerera på [x]");
 
 
-?>

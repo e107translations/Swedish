@@ -54,7 +54,7 @@ define("PRFLAN_56", "Tidszon");
 define("PRFLAN_58", "Begränsa webbplatsen för enbart medlemmar");
 define("PRFLAN_59", "Markerad kommer begränsa alla areor utom förstasidan och registreringssidan till enbart medlemmar");
 define("PRFLAN_60", "Aktivera SSL");
-define("PRFLAN_61", "Aktivera endast SSL om <b>du är SÄKER på vad du gör!</b>");
+define("PRFLAN_61", "Aktivera endast SSL om [b]du är SÄKER på vad du gör![/b]");
 define("PRFLAN_76", "Aktivera bildkodsverifikation under registrering");
 define("PRFLAN_77", "Admins visningsalternativ");
 define("PRFLAN_78", "Lämna tomt för att avaktivera");
@@ -254,4 +254,4 @@ define("PRFLAN_274", "Kontaktformuläret visas endast för denna användarklass"
 define("PRFLAN_275", "Visa denna sida genom https (SSL) för att göra ändringar");
 
 
-?>
+define("PRFLAN_276", "PHP standard (rekommenderas)");

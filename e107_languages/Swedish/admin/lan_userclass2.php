@@ -55,4 +55,3 @@ define("UCSLAN_90", "Du kan inte redigera vissa användarklasser som används av
 define("UCSLAN_91", "Användarklass struktur");
 
 
-?>

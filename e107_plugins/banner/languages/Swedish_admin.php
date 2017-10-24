@@ -40,4 +40,3 @@ define("BNRLAN_HELP_01", "Bannerhjälp");
 define("BNRLAN_HELP_02", "Använd denna plugin för att hantera reklam på din sajt. <br/><br/>När du skapar en ny banner kan du skapa ett användarnamn och lösen för din klient som kan logga in och se hur kampanjen fortskrider. <br/><br/>Du kan aktivera bannermenyn i menyhanteraren för mer inställningar.");
 
 
-?>

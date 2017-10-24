@@ -61,4 +61,3 @@ define("LANHELP_53", "Marginaljustera: \n[justify] Denna texten kommer marginalj
 define("LANHELP_54", "HTML block (div tag): [block]Ditt innehåll[/block]");
 
 
-?>

@@ -36,9 +36,8 @@ define("GSLAN_33", "GSiteMap ANvisningar");
 define("GSLAN_34", "Börja med att skapa länkarna du vill ska finnas listade i din sajtkarta. Du kan importera de flesta av dina länkar genom att klicka på knappen Importera till höger.");
 define("GSLAN_35", "Om du väljer att importera dina länkar, klicka Importera och bocka för de länkar du vill importera.");
 define("GSLAN_36", "Du kan även skapa enskilda länkar manuellt genom att klicka på 'Skapa ny post'");
-define("GSLAN_37", "När du har ett antal poster, gå till [URL] och skriv in följande URL-> <b>".SITEURL."gsitemap.php</b> - Om denna url inte ser korrekt ut enligt dig, se till att din sajturl är rätt i admin ->inställningar");
+define("GSLAN_37", "När du har ett antal poster, gå till [URL] och skriv in följande URL-> [b]".SITEURL."gsitemap.php[/b] - Om denna url inte ser korrekt ut enligt dig, se till att din sajturl är rätt i admin ->inställningar");
 define("GSLAN_38", "För mer info om Google Sitemapprotokoll, besök [URL].");
 define("GSLAN_39", "Inga länkar i sajtkartan - Importera sajtlänkar?");
 
 
-?>

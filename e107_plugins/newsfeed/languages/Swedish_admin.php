@@ -25,4 +25,3 @@ define("NFLAN_45", "Antalet objekt som visas i menyn");
 define("NFLAN_46", "Antalet objekt som visas på huvudsidan");
 
 
-?>

@@ -27,4 +27,3 @@ define("FOOTLAN_19", "Nuvarande servertid");
 define("FOOTLAN_20", "Säkerhetsnivå");
 
 
-?>

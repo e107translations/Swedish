@@ -18,4 +18,3 @@ define("FLALAN_17", "Den automatiska bannlysningslistan är raderad");
 define("FLALAN_18", "Kunde inte bannlysa IP-adress --IP-- -på Vitlistan");
 
 
-?>

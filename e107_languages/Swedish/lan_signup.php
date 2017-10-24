@@ -62,8 +62,8 @@ define("LAN_SIGNUP_64", "Detta verkar inte vara giltig användar information");
 define("LAN_SIGNUP_65", "Du har tilldelats följande användarnamn");
 define("LAN_SIGNUP_66", "Anteckna det på valfritt sätt");
 define("LAN_SIGNUP_67", "Detta kommer att tilldelas av systemet efter registrering");
-define("LAN_SIGNUP_69", "");
-define("LAN_SIGNUP_70", "");
+// define("LAN_SIGNUP_69", "");
+// define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Du har nått upp till gränsen för användarregistrering. Vänligen logga in med något av dina andra konton.");
 define("LAN_SIGNUP_72", "Tack för att du registrerat webbplatskonto på [sitename]. En bekräftelse har skickats till [email] med en webblänk. Klicka på den webblänken för att slutföra din registrering och aktivera ditt konto.");
 define("LAN_SIGNUP_73", "Tackar!");
@@ -112,4 +112,4 @@ define("LAN_SIGNUP_119", "Mejla inte");
 define("LAN_SIGNUP_120", "ELLER");
 
 
-?>
+define("LAN_SIGNUP_121", "Använda en annan e-postadress");

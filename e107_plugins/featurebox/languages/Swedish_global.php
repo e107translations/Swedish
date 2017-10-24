@@ -20,4 +20,3 @@ define("FBLAN_INSTALL_04", "Karusell");
 define("FBLAN_INSTALL_05", "Flikar");
 
 
-?>

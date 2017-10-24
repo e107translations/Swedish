@@ -32,4 +32,3 @@ define("CACLAN_29", "Sammanför och cachar javascriptfiler och Cascading stylesh
 define("CACLAN_30", "Töm JS/CSS Cache");
 
 
-?>

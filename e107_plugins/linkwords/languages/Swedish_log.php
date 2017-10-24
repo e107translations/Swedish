@@ -18,4 +18,3 @@ define("LAN_AL_LINKWD_04", "Länkords inställningar uppdaterade");
 define("LAN_AL_LINKWD_05", "länkords version uppdaterad");
 
 
-?>

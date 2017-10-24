@@ -24,4 +24,3 @@ define("LAN_UMENU_THEME_8", "Tillåtna Teman");
 define("LAN_UMENU_THEME_9", "Användarklass som kan välja Teman");
 
 
-?>

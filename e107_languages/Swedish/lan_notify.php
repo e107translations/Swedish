@@ -22,4 +22,3 @@ define("NT_LAN_ND_1", "Nyhetsartikel raderat");
 define("NT_LAN_ND_2", "Raderat nyhetsartikel ID");
 
 
-?>

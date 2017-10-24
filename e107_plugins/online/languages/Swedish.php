@@ -35,4 +35,3 @@ define("LAN_ONLINE_ADMIN_9", "Visar en lista över medlemmar som läser en sida"
 define("LAN_ONLINE_ADMIN_10", "Visa gäster som är online");
 
 
-?>

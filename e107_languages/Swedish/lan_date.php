@@ -32,4 +32,3 @@ define("LANDT_AGO", "sedan");
 define("LANDT_10", "Just nu");
 
 
-?>

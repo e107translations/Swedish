@@ -20,4 +20,3 @@ define("LAN_NP_URLCURRENT", "just nu visas");
 define("NP_CAPTION", "sida [x] av [y]");
 
 
-?>

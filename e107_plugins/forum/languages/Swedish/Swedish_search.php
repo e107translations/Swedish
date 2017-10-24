@@ -15,4 +15,3 @@ define("FOR_SCH_LAN_4", "Hela inlägget");
 define("FOR_SCH_LAN_5", "Som del av en tråd");
 
 
-?>

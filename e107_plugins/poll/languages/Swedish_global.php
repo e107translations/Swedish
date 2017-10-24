@@ -14,4 +14,3 @@ define("LAN_PLUGIN_POLL_NAME", "Omröstning");
 define("LAN_PLUGIN_POLL_DESCRIPTION", "Omröstningspluginen ger dig möjlighet att lägga in omröstningar i en meny eller foruminlägg.");
 
 
-?>

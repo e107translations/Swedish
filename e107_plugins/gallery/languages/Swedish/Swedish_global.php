@@ -18,4 +18,3 @@ define("LAN_PLUGIN_GALLERY_SEF_03", "SEF URL:er inaktiva");
 define("LAN_PLUGIN_GALLERY_SEF_04", "Förvalt bildgalleri");
 
 
-?>

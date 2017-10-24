@@ -36,4 +36,7 @@ define("LANG_LAN_120", "Vänligen se till att du änvänder dig av standardnamn 
 define("LANG_LAN_AGR", "Notera: Vid användandet av dessa verktyg samtycker du till att dela ditt språkpaket med e107-gemenskapen");
 
 
-?>
+define("LAN_CHECK_29", "Identiska sträng (endast varning)");
+define("LAN_CHECK_30", "Saknade bbcodes");
+define("LAN_CHECK_31", "Saknas [eller] tecken");
+define("LAN_CHECK_32", "HTML-taggar som saknas");

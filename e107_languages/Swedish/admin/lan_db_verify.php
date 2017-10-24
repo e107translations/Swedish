@@ -5,7 +5,7 @@
 |     $Swedish translation: hanssons.de $
 +----------------------------------------------------------------------------+
 */
-define("DBVLAN_1", "Kan inte läsa från sql datafilen<br /><br />Vänligen se till att <b>core_sql.php</b>finns med i <b>/e107_core/sql</b> katalogen");
+define("DBVLAN_1", "Kan inte läsa från sql datafilen<br /><br />Vänligen se till att [b]core_sql.php[/b]finns med i [b]/e107_core/sql[/b] katalogen");
 define("DBVLAN_4", "Tabell");
 define("DBVLAN_5", "Fält");
 define("DBVLAN_6", "Status");
@@ -28,4 +28,3 @@ define("DBVLAN_25", "Index saknas!");
 define("DBVLAN_26", "[x] tabell(er) har problem.");
 
 
-?>

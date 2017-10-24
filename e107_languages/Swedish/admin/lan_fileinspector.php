@@ -61,7 +61,7 @@ utgåvan så kommer du att upptäcka att filer misslyckas i integritetskontrolle
 att den senaste checksumman av kärnan skapades.");
 define("FR_LAN_19", "filer som misslyckades");
 define("FR_LAN_20", "Alla filer godkända");
-define("FR_LAN_21", "inga");
+// define("FR_LAN_21", "inga");
 define("FR_LAN_22", "Saknade kärnfiler");
 define("FR_LAN_23", "Inga matchningar hittades.");
 define("FR_LAN_24", "Gamla kärnfiler");
@@ -84,4 +84,3 @@ define("FS_LAN_11", "Ögonblicksbild skapad korrekt");
 define("FS_LAN_12", "Tillbaka till huvudsidan");
 
 
-?>

@@ -254,4 +254,3 @@ define("LAN_AL_ADMINUI_04", "Admin-UI DB Fel:[x]");
 define("LAN_AL_BACKUP", "Databas Backup");
 
 
-?>

@@ -101,4 +101,3 @@ define("LIST_ADMIN_LAN_40", "ska sektioner som innehåller poster öppnas som st
 define("LAN_AL_LISTNEW_01", "Lista nytt preferenser uppdaterade");
 
 
-?>

@@ -24,4 +24,3 @@ define("LAN_NEWS_ADMIN_10", "Antal funktionsposter");
 define("LAN_NEWS_ADMIN_11", "Tillhörande poster är de vars mall är associerade med 'Nyhets karusellen'");
 
 
-?>

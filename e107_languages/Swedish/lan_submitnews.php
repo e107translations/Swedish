@@ -11,13 +11,13 @@
 +----------------------------------------------------------------------------+
 */
 define("PAGE_NAME", "Skriv en nyhetsartikel");
-define("LAN_7", "Namn:");
-define("LAN_112", "E-postadress:");
-define("LAN_133", "Tack");
+// define("LAN_7", "Namn:");
+// define("LAN_112", "E-postadress:");
+// define("LAN_133", "Tack");
 define("LAN_134", "Nyhetsartikeln har skickats in och kommer att granskas av en webbplatsadministratör.");
 define("LAN_135", "Nyhetsartikel:");
 define("LAN_136", "Skicka in nyhetsartikel");
-define("NWSLAN_6", "Kategori");
+// define("NWSLAN_6", "Kategori");
 define("NWSLAN_10", "Inga nyhetskategorier");
 define("NWSLAN_11", "Du har inte tillgång till denna area.");
 define("NWSLAN_12", "Tillgång nekad.");
@@ -30,10 +30,9 @@ define("SUBNEWSLAN_6", "jpg / gif / png");
 define("SUBNEWSLAN_7", "Du måste ange ditt namn och din e-postadress");
 define("SUBNEWSLAN_8", "Ett fel uppstod när bilden skulle laddas upp");
 define("SUBNEWSLAN_9", "Nyckelord");
-define("SUBNEWSLAN_10", "Summering");
+// define("SUBNEWSLAN_10", "Summering");
 define("SUBNEWSLAN_11", "Meta beskrivning");
 define("SUBNEWSLAN_12", "används av Facebook etc.");
 define("SUBNEWSLAN_13", "Media URL:er");
 
 
-?>

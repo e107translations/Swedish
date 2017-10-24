@@ -11,4 +11,3 @@ define("US_LAN_3", "Alla användare");
 define("US_LAN_4", "Sök användarnamn");
 define("US_LAN_5", "Användare hittades");
 define("US_LAN_6", "Sök");
-?>

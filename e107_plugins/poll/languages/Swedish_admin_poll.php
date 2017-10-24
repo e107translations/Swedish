@@ -12,4 +12,3 @@
 define("POLL_ADLAN04", "Omröstningsfunktionen har installerats. För att lägga till omröstningar, klicka på ikonen 'Omröstningar' i pluginsektionen på din administratörssida; kom ihåg att aktivera menyobjektet på menysidan.");
 
 
-?>

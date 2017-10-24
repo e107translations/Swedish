@@ -31,4 +31,3 @@ define("CHBLAN_38", "Använd javascript för att uppdatera inlägg dynamiskt. (A
 define("CHBLAN_42", "Visa antal inlägg i din användarprofil");
 
 
-?>

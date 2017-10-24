@@ -260,4 +260,5 @@ define("LAN_UNINSTALL_FAIL", "Kunde inte avinstallera");
 define("LAN_PLUGIN_IS_USED", "[x] plugin används av:");
 
 
-?>
+define("EPL_ADLAN_247", "Uppdateringar installeras");
+define("EPL_ADLAN_254", "Detta kommer att kontrollera din plugin's språkfiler för fel och gemensamma eller dubbla LAN definitioner.");

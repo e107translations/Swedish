@@ -109,4 +109,3 @@ define("LANINS_144", "VIKTIGT: Vänligen kopiera och klistra in innehållet i [b
 define("LANINS_145", "e107 V2.x kräver att PHP [x] är installerad. Vänligen kontakta din webbvärd(host) eller läs informationen vid [y] innan du fortsätter");
 
 
-?>

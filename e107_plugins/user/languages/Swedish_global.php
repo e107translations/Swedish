@@ -14,4 +14,3 @@ define("LAN_PLUGIN_USER_NAME", "Användare");
 define("LAN_PLUGIN_USER_DESC", "Användartema och språkmenyer");
 
 
-?>

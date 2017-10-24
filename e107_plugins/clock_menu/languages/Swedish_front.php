@@ -35,4 +35,3 @@ define("CLOCK_MENU_L22", "November");
 define("CLOCK_MENU_L23", "December");
 
 
-?>

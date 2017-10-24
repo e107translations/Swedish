@@ -6,7 +6,6 @@
 +----------------------------------------------------------------------------+
 */
 define("LAN_SITELINKS_183", "Huvudmeny");
-define("LAN_SITELINKS_502", "Administrations Area");
+// define("LAN_SITELINKS_502", "Administrations Area");
 
 
-?>

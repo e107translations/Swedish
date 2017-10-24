@@ -26,4 +26,13 @@ define("NF_LAN_2", "Fil uppladdad av användare");
 define("LAN_NOTIFY_01", "Händelser");
 
 
-?>
+define("NA_LAN_1", "Administratören uppdaterar sina lösenord");
+define("NA_LAN_2", "Administratören skapar en ny användare");
+define("NA_LAN_3", "Administratören aktiverar en ny användare");
+define("NU_LAN_6", "Sociala Användarlogin");
+define("NU_LAN_7", "Användare sociala signup");
+define("NU_LAN_8", "Användarprofil visningar");
+define("NU_LAN_9", "Redigera användarprofil");
+define("NS_LAN_3", "IP förbjudna för flera misslyckade inloggningsförsök");
+define("NN_LAN_6", "Nyheter anmälan utlöses");
+define("NM_LAN_3", "E-postadress =>");

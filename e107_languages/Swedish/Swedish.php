@@ -125,4 +125,3 @@ define("LAN_PLEASEWAIT", "Var god vänta");
 define("LAN_CHOOSE_FILE", "Välj en fil");
 
 
-?>

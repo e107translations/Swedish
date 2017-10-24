@@ -15,4 +15,3 @@ define("LAN_PLUGIN__BLANK_DIZ", "EN tom Plugin för att hjälpa dig att komma ig
 define("LAN_PLUGIN__BLANK_LINK", "Tom länk");
 
 
-?>

@@ -120,4 +120,4 @@ define("BANLAN_124", "upphör");
 define("BANLAN_125", "Använd min IP-adress");
 
 
-?>
+define("BANLAN_126", "IP / Email");

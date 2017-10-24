@@ -33,7 +33,7 @@ define("FORLAN_55", "Gräns för att räknas som populär tråd");
 define("FORLAN_56", "Antalet inlägg som behövs i en tråd för att den ska anses som populär");
 define("FORLAN_57", "Inlägg per sida");
 define("FORLAN_58", "Antalet inlägg som visas per sida");
-define("FORLAN_60", "Detta kommer att radera alla trådar som inte har fått ett svar på det antal dagar du väljer. <br /><b>Använd denna funktion med förnuft!</b>");
+define("FORLAN_60", "Detta kommer att radera alla trådar som inte har fått ett svar på det antal dagar du väljer. <br />[b]Använd denna funktion med förnuft![/b]");
 define("FORLAN_63", "Visa rangordning");
 define("FORLAN_65", "Forum titel");
 define("FORLAN_66", "Inte installerad");
@@ -129,4 +129,3 @@ define("FORLAN_215", "Inte installerad");
 define("FORLAN_216", "(Ny förälder)");
 
 
-?>

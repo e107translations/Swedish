@@ -5,7 +5,7 @@
 |     $Swedish translation: hanssons.de $
 +----------------------------------------------------------------------------+
 */
-define("TPVLAN_1", "Du tittar på en förhandsgranskning av <b>'".PREVIEWTHEMENAME."'</b> temat. Det har inte satts som huvudtema för webbplatsen ännu, det är bara aktiverat för förhandsgranskning av hur temat ser ut.<br />För att sätta detta som webbplatstema, <a href='".e_ADMIN."theme.php'>gå tillbaka till din temahanterare</a> och välj 'Sätt som Webblatstema'.<br />För att förhandsgranska fler teman vänligen <a href='".e_ADMIN."theme.php'>klicka här</a>");
+define("TPVLAN_1", "Du tittar på en förhandsgranskning av [b]'".PREVIEWTHEMENAME."'[/b] temat. Det har inte satts som huvudtema för webbplatsen ännu, det är bara aktiverat för förhandsgranskning av hur temat ser ut.<br />För att sätta detta som webbplatstema, <a href='".e_ADMIN."theme.php'>gå tillbaka till din temahanterare</a> och välj 'Sätt som Webblatstema'.<br />För att förhandsgranska fler teman vänligen <a href='".e_ADMIN."theme.php'>klicka här</a>");
 define("TPVLAN_2", "Förhandsgranskning av Tema");
 define("TPVLAN_3", "Webbplatstema satt till");
 define("TPVLAN_5", "Webbplats");
@@ -108,4 +108,5 @@ define("TPVLAN_91", "Skapa ett nytt tema som bygger på");
 define("TPVLAN_92", "Nya temats mapp");
 
 
-?>
+define("TPVLAN_93", "Urval");
+define("TPVLAN_94", "Webbplatsens tema ändras till [x].");

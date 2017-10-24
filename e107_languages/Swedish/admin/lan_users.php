@@ -124,14 +124,14 @@ define("USRLAN_169", "Totalt --COUNT-- studsande mejl raderades");
 define("USRLAN_170", "Slumpvis valt användarnamn");
 define("USRLAN_171", "Slumpvis valt lösen");
 define("USRLAN_172", "Användarkontot har skapats med följande:");
-define("USRLAN_175", "Session");
+// define("USRLAN_175", "Session");
 define("USRLAN_179", "Användare bannlyst");
 define("USRLAN_180", "IP adressen {IP} finns med på Vitlistan; IP är inte bannlyst");
 define("USRLAN_181", "Välj alternativ för användarstatus och skicka bekräftelsemejl till användaren");
 define("USRLAN_182", "Otillåtna tecken i användarnamn");
 define("USRLAN_183", "Det användarnamnet finns redan");
 define("USRLAN_184", "Alldeles för långt användarnamn");
-define("USRLAN_185", "Ett användarkonto har skapats åt dig på {SITEURL} med följande uppgifter:<br /><br /><b>ANvändarnamn:</b> {LOGINNAME}<br /><b>Lösen:</b> {PASSWORD}<br/><b>Aktiveringslänk:</b> {ACTIVATION_LINK}<br /><br />");
+define("USRLAN_185", "Ett användarkonto har skapats åt dig på {SITEURL} med följande uppgifter:<br /><br />[b]ANvändarnamn:[/b] {LOGINNAME}<br />[b]Lösen:[/b] {PASSWORD}<br/>[b]Aktiveringslänk:[/b] {ACTIVATION_LINK}<br /><br />");
 define("USRLAN_186", "Vänligen logga in så fort som möjligt, ändra sedan ditt lösen under  \"Inställningar\" <br /><br />Du kan också ändra andra inställningar.<br /><br />Ditt lösen kan inte återhämtas om du glömmer det.");
 define("USRLAN_187", "Tillgång till webbplatsen");
 define("USRLAN_188", "Mejlet skickades");
@@ -142,7 +142,7 @@ define("USRLAN_192", "");
 define("USRLAN_193", "Inget ändrades - inget sparades");
 define("USRLAN_194", "Signaturen kan ändras / redigeras av");
 define("USRLAN_195", "Senaste inlägg");
-define("USRLAN_197", "Källa");
+// define("USRLAN_197", "Källa");
 define("USRLAN_198", "fältnamn");
 define("USRLAN_199", "Uppgift");
 define("USRLAN_200", "värde");
@@ -229,4 +229,3 @@ define("USRLAN_AS_2", "Logga ut från [x] konto");
 define("USRLAN_AS_3", "Du är redan inloggad som en annan användare. Vänligen logga ut först.");
 
 
-?>

@@ -19,4 +19,3 @@ define("FRTLAN_57", "Mjukvarufel");
 define("FRTLAN_61", "Urval");
 
 
-?>

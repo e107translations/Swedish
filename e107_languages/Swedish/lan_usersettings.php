@@ -79,4 +79,3 @@ define("LAN_USET_5", "Prenumererar på");
 define("LAN_USET_6", "Prenumerera på mejlutskick och/eller delar av denna sajt");
 
 
-?>

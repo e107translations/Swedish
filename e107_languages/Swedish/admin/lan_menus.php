@@ -51,4 +51,3 @@ define("MENLAN_60", "Detta tema använder sig av element som tagits ur bruk.
 Alla[x] HEADER och [x] Footer variabler skall tas bort från theme.php");
 
 
-?>

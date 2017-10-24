@@ -8,11 +8,11 @@
 define("PAGE_NAME", "Nyhetsartiklar");
 define("LAN_NEWS_1", "Nyhetsartiklar endast för specifika medlemmar");
 define("LAN_NEWS_2", "Du har inte tillåtelse att se denna nyhetsartikel");
-define("LAN_NEWS_9", "Endast rubrik är inställt - <b>enbart nyhetsartikelns rubrik kommer att visas</b><br />");
-define("LAN_NEWS_10", "Denna nyhetsartikel är <b>inaktiv</b> (Den kommer inte visas på förstasidan).");
-define("LAN_NEWS_11", "Denna nyhetsartikel är <b>aktiv</b> (Den kommer att synas på förstasidan).");
-define("LAN_NEWS_12", "Kommentarer är <b>på</b>.");
-define("LAN_NEWS_13", "Kommentarer är <b>av</b>.");
+define("LAN_NEWS_9", "Endast rubrik är inställt - [b]enbart nyhetsartikelns rubrik kommer att visas[/b]<br />");
+define("LAN_NEWS_10", "Denna nyhetsartikel är [b]inaktiv[/b] (Den kommer inte visas på förstasidan).");
+define("LAN_NEWS_11", "Denna nyhetsartikel är [b]aktiv[/b] (Den kommer att synas på förstasidan).");
+define("LAN_NEWS_12", "Kommentarer är [b]på[/b].");
+define("LAN_NEWS_13", "Kommentarer är [b]av[/b].");
 define("LAN_NEWS_14", "<br />Aktiveringsperiod:");
 define("LAN_NEWS_15", "Textlängd:");
 define("LAN_NEWS_16", "t. utökad längd:");
@@ -35,4 +35,3 @@ define("LAN_NEWS_307", "Totalt antal nyhetsartiklar i denna kategori:");
 define("LAN_NEWS_308", "Du kanske letar efter en av nyheterna listade nedanför?");
 
 
-?>

@@ -46,4 +46,3 @@ define("LAN_FPW_101", "Oroa dig inte. Skriv in din mejladress och vi skickar dig
 define("LAN_FPW_102", "Återställ lösenordet");
 
 
-?>

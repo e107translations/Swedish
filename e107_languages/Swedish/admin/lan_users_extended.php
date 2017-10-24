@@ -55,7 +55,7 @@ define("EXTLAN_47", "Lägg till ny parameter");
 define("EXTLAN_48", "Lägg till nytt värde");
 define("EXTLAN_49", "Tillåt användare att dölja");
 define("EXTLAN_50", "Sätt detta till ja för att låta användaren att dölja detta värde för icke-administratörer");
-define("EXTLAN_51", "Vilken giltig w3c parameter som helst kan anges här<br />t.ex <b><i>class='tbox' size='40' maxlength='80'</i></b>");
+define("EXTLAN_51", "Vilken giltig w3c parameter som helst kan anges här<br />t.ex [b]<i>class='tbox' size='40' maxlength='80'</i>[/b]");
 define("EXTLAN_52", "regex valideringskod");
 define("EXTLAN_53", "Ange den regex kod som måste matchas för att göra det till en giltig inmatning<br />**regex skiljetecken krävs**");
 define("EXTLAN_54", "regex feltext");
@@ -90,10 +90,10 @@ define("EXTLAN_83", "Platshållare");
 define("EXTLAN_84", "Hjälptips");
 define("EXTLAN_86", "Utökade användarfälts kolumn raderad från tabellen");
 define("EXTLAN_87", "Ordna värden");
-define("EXTLAN_HELP_1", "<b><i>Parametrar:</i></b><br />storlek - storlek på fält<br />maxlängd - max längd på fält<br /><br />grupp - cssgrupp på fält<br />stil - css stil string<br /><br />regex - regex validation code<br />regexfail - validation fail text");
+define("EXTLAN_HELP_1", "[b]<i>Parametrar:</i>[/b]<br />storlek - storlek på fält<br />maxlängd - max längd på fält<br /><br />grupp - cssgrupp på fält<br />stil - css stil string<br /><br />regex - regex validation code<br />regexfail - validation fail text");
 define("EXTLAN_HELP_2", "Skriv in text för val i 'Värden' rutan - en ruta per alternativ. Lägg till nya rutor efter behov");
 define("EXTLAN_HELP_3", "Skriv in text för val i 'Värden' rutan - en ruta per alternativ. Lägg till nya rutor efter behov");
-define("EXTLAN_HELP_4", "<b><i>Värden:</i></b><br />Det ska ALLTID finnas minst tre värden:<br /><ol><li>dbtabell</li><li>Fält innehållandes id</li><li>Fält innehållandes värdet</li></ol><br />");
+define("EXTLAN_HELP_4", "[b]<i>Värden:</i>[/b]<br />Det ska ALLTID finnas minst tre värden:<br /><ol><li>dbtabell</li><li>Fält innehållandes id</li><li>Fält innehållandes värdet</li></ol><br />");
 define("EXTLAN_HELP_5", "Definiera ett område för fritext.. (Ställ in storleken på 'Textfätt' rutan efter vad som krävs)");
 define("EXTLAN_HELP_6", "Tillåt användare att välja ett nummeriskt värde");
 define("EXTLAN_HELP_7", "Kräv användaren att ange ett datum");
@@ -101,4 +101,3 @@ define("EXTLAN_HELP_8", "Tillåt användare att välja från installerade språk
 define("EXTLAN_HELP_9", "Specificera en fördefinierad lista. Värdet i fältet väljer listtyp - för närvarande är det endast 'Tidzoner' som är giltigt");
 
 
-?>

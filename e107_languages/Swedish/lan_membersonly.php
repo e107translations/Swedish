@@ -13,4 +13,3 @@ define("LAN_MEMBERS_3", "eller [register] dig som medlem");
 define("LAN_MEMBERS_4", "Klicka här för att återgå till förstasidan");
 
 
-?>

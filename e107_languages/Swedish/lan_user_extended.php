@@ -50,4 +50,3 @@ define("UE_LAN_COMMENT", "Kommentarer");
 define("UE_LAN_COMMENT_DESC", "Kommentarsruta");
 
 
-?>

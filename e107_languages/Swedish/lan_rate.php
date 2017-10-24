@@ -24,4 +24,3 @@ define("RATELAN_VERYGOOD", "Mycket bra");
 define("RATELAN_EXCELLENT", "Utmärkt");
 
 
-?>

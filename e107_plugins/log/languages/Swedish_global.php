@@ -16,4 +16,3 @@ define("LAN_PLUGIN_LOG_CONFIGURE", "Konfigurera statistikloggning");
 define("LAN_PLUGIN_LOG_LINK", "Besök");
 
 
-?>

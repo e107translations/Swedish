@@ -179,4 +179,5 @@ define("IMALAN_178", "Avatarmapp (kan ändras av användaren)");
 define("IMALAN_179", "Avatarmapp (privat)");
 
 
-?>
+define("IMALAN_180", "0-bytefilen Funna i:");
+define("IMALAN_181", "Ta bort innan du fortsätter.");

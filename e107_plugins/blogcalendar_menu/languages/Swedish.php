@@ -19,4 +19,3 @@ define("BLOGCAL_CONF4", "BlogCal konfigureringsmeny");
 define("BLOGCAL_ARCHIV1", "Välj arkiv");
 
 
-?>

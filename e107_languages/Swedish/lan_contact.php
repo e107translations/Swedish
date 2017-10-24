@@ -33,4 +33,3 @@ define("LANCONTACT_19", "Fyll i ämne för mejlet.");
 define("LANCONTACT_20", "Skriv ditt meddelande till oss.");
 
 
-?>

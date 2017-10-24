@@ -16,4 +16,4 @@ define("LAN_NEWSCAT_MENU_TITLE", "Nyhetskategorier");
 define("LAN_NEWSLATEST_MENU_TITLE", "Senaste nytt");
 
 
-?>
+define("LAN_NEWSARCHIVE_MENU_TITLE", "Nyhetsarkiv");

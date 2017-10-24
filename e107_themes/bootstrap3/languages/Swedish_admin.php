@@ -23,4 +23,3 @@ define("LAN_THEMEPREF_09", "upptill");
 define("LAN_THEMEPREF_10", "nertill");
 
 
-?>
